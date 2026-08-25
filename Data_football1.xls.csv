@@ -1,0 +1,1001 @@
+﻿ID_Player,Player_Name,Team,Position,Match_Date,Age,Minutes_Played,Goals,Assists,Yellow_Cards,Red_Cards,Distance_KM
+1,Dor Peretz,Beitar Jerusalem,Defender,18/03/2024,28,90,0,0,0,0,10.38
+2,Ramzi Safouri,Maccabi Tel Aviv,׳§׳©׳¨,13/05/2024,22,90,0,1,1,0,9.98
+3,Tai Baribo,Beitar Jerusalem,Forward,23/08/2024,37,0,0,0,0,1,12.6
+4,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,01/06/2024,28,90,0,0,1,0,15.13
+5,Anan Khalaili,Maccabi Haifa,FWD,01/02/2024,27,90,0,0,0,0,11.17
+6,Mohammad Abu Fani,Maccabi Tel Aviv,Midfielder,15/01/2024,25,90,0,0,0,0,8.96
+7,Dor Peretz,Maccabi Tel Aviv,Midfielder,11/05/2024,23,45,1,0,1,0,10.27
+8,Eyad Abu Abaid,Beitar Jerusalem,Midfielder,26/07/2024,23,0,2,0,0,0,11.15
+9,Shon Weissman,Beitar Jerusalem,׳—׳׳•׳¥,25/06/2024,25,60,0,0,0,1,
+10,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,27/03/2024,32,75,0,0,0,0,
+11,Gabi Kanichowsky,Hapoel Tel Aviv,Defender,17/05/2024,31,75,0,0,3,0,11.15
+12,Dia Saba,Maccabi Haifa,Forward,01/02/2024,28,90,0,0,0,0,12.49
+13,Mohammad Abu Fani,Hapoel Tel Aviv,׳§׳©׳¨,09/03/2024,29,0,0,0,0,0,12.33
+14,Yarden Shua,Maccabi Tel Aviv,Goalkeeper,01/05/2024,30,60,0,0,0,0,10.67
+15,Anan Khalaili,Beitar Jerusalem,Midfielder,16/07/2024,25,75,0,0,0,0,12.77
+16,Dia Saba,Hapoel Tel Aviv,FWD,06/04/2024,35,60,0,0,0,0,13.55
+17,Eran Zahavi,Hapoel Tel Aviv,Midfielder,17/05/2024,18,60,0,0,1,0,
+18,Netta Lavi,Maccabi Haifa,FWD,05/06/2024,32,75,0,0,1,0,11.13
+19,Mohammad Abu Fani,Maccabi Haifa,Defender,03/05/2024,25,0,0,0,1,0,7.85
+20,Lior Refaelov,Maccabi Tel Aviv,FWD,23/05/2024,28,15,0,0,0,0,8.32
+21,Dia Saba,Beitar Jerusalem,Goalkeeper,21/05/2024,29,75,1,1,0,2,9.24
+22,Sagiv Jehezkel,Maccabi Haifa,Forward,10/02/2024,29,75,0,0,1,0,9.83
+23,Hisham Layous,Hapoel Tel Aviv,FWD,19/01/2024,21,90,1,1,0,0,8.86
+24,Lior Refaelov,Beitar Jerusalem,FWD,21/06/2024,33,75,2,0,1,0,10.45
+25,Mohammad Abu Fani,Beitar Jerusalem,Forward,09/06/2024,21,90,2,0,1,0,9.88
+26,Omri Altman,Hapoel Tel Aviv,Goalkeeper,01/03/2024,22,75,1,0,0,0,12.11
+27,Sagiv Jehezkel,Maccabi Haifa,Midfielder,13/05/2024,22,0,0,0,0,0,9.79
+28,Netta Lavi,Hapoel Tel Aviv,FWD,04/06/2024,25,75,0,0,0,0,7.07
+29,Sagiv Jehezkel,Beitar Jerusalem,Forward,01/01/2024,27,90,0,0,0,0,10.69
+30,Roey Gordana,Hapoel Beer Sheva,Defender,08/08/2024,34,90,0,0,0,0,10.48
+31,Eli Dasa,Hapoel Beer Sheva,Forward,02/04/2024,26,90,0,0,2,0,9.21
+32,Miguel Vitor,Maccabi Tel Aviv,Defender,08/07/2024,36,60,0,1,0,0,
+33,Raz Shlomo,Hapoel Tel Aviv,Goalkeeper,26/02/2024,31,90,0,0,0,0,8.89
+34,Tai Baribo,Hapoel Tel Aviv,Midfielder,02/06/2024,25,90,2,0,0,0,10.99
+35,Tai Baribo,Maccabi Tel Aviv,Forward,22/03/2024,26,90,0,0,0,0,14.45
+36,Eyad Abu Abaid,Maccabi Tel Aviv,׳§׳©׳¨,27/02/2024,28,60,1,0,0,0,7.79
+37,Sagiv Jehezkel,Maccabi Tel Aviv,׳§׳©׳¨,12/01/2024,18,60,1,0,0,0,9.73
+38,Shon Weissman,Beitar Jerusalem,׳—׳׳•׳¥,22/04/2024,31,90,0,0,0,0,9.49
+39,Ramzi Safouri,Hapoel Tel Aviv,FWD,05/06/2024,22,90,1,0,0,0,9.85
+40,Roey Gordana,Beitar Jerusalem,Goalkeeper,27/01/2024,31,75,1,0,0,1,12.03
+41,Eran Zahavi,Maccabi Tel Aviv,Forward,17/08/2024,21,0,4,0,0,0,11.31
+42,Dan Einbinder,Hapoel Tel Aviv,׳§׳©׳¨,15/07/2024,18,75,1,0,1,0,11.77
+43,Eyad Abu Abaid,Beitar Jerusalem,FWD,15/05/2024,36,90,0,0,0,0,10.55
+44,Dor Peretz,Beitar Jerusalem,׳§׳©׳¨,21/06/2024,25,75,1,1,0,0,8.52
+45,Mohammad Abu Fani,Maccabi Tel Aviv,Forward,02/03/2024,32,90,0,0,0,0,8.83
+46,Dean David,Hapoel Tel Aviv,Defender,19/07/2024,32,45,0,0,0,0,11.62
+47,Dor Peretz,Maccabi Tel Aviv,Forward,06/08/2024,26,75,0,0,0,0,10.76
+48,Dor Turgeman,Hapoel Tel Aviv,׳—׳׳•׳¥,02/06/2024,26,90,2,1,0,0,
+49,Yarden Shua,Hapoel Beer Sheva,Forward,18/02/2024,27,90,1,1,0,0,10.94
+50,Roey Gordana,Maccabi Haifa,Forward,18/06/2024,37,75,0,0,0,0,8.73
+51,Manor Solomon,Maccabi Haifa,׳—׳׳•׳¥,15/03/2024,26,45,-1,-2,0,0,9.72
+52,Dor Turgeman,Maccabi Haifa,Goalkeeper,19/07/2024,20,75,0,1,0,0,11.35
+53,Dean David,Maccabi Tel Aviv,Forward,02/04/2024,37,75,0,0,0,0,11.57
+54,Mohammad Abu Fani,Hapoel Beer Sheva,׳—׳׳•׳¥,25/06/2024,28,60,1,1,0,0,11.78
+55,Lior Refaelov,Hapoel Tel Aviv,FWD,01/08/2024,23,75,0,0,0,0,8.93
+56,Ramzi Safouri,Beitar Jerusalem,Defender,15/04/2024,19,90,0,0,0,0,8.7
+57,Tai Baribo,Hapoel Tel Aviv,Defender,23/02/2024,24,45,0,1,0,0,10.22
+58,Dor Peretz,Beitar Jerusalem,Forward,19/01/2024,35,90,1,0,2,0,12.66
+59,Sagiv Jehezkel,Hapoel Tel Aviv,Goalkeeper,05/05/2024,19,90,0,1,0,0,9.46
+60,Anan Khalaili,Hapoel Beer Sheva,Goalkeeper,04/02/2024,34,0,0,0,1,0,11.18
+61,Tai Baribo,Beitar Jerusalem,FWD,24/01/2024,150,90,0,0,0,0,11.18
+62,Eran Zahavi,Maccabi Tel Aviv,Forward,10/01/2024,29,90,0,0,0,0,11.64
+63,Manor Solomon,Hapoel Tel Aviv,Defender,20/08/2024,36,90,0,1,0,0,13
+64,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,05/02/2024,24,15,1,0,0,0,12.84
+65,Yarden Shua,Beitar Jerusalem,Forward,06/05/2024,37,90,0,0,0,0,9.61
+66,Dor Turgeman,Maccabi Tel Aviv,׳§׳©׳¨,02/05/2024,23,90,0,0,0,0,7.35
+67,Anan Khalaili,Maccabi Tel Aviv,Goalkeeper,11/03/2024,18,90,0,0,0,0,9.48
+68,Yarden Shua,Hapoel Beer Sheva,׳—׳׳•׳¥,16/03/2024,34,90,0,0,1,0,
+69,Lior Refaelov,Maccabi Tel Aviv,׳§׳©׳¨,19/07/2024,28,90,0,0,1,0,9.96
+70,Hisham Layous,Maccabi Tel Aviv,Goalkeeper,25/07/2024,35,90,0,0,0,0,13.45
+71,Netta Lavi,Maccabi Tel Aviv,Defender,23/08/2024,34,75,0,0,0,1,82.4
+72,Miguel Vitor,Maccabi Haifa,Midfielder,11/06/2024,24,90,0,0,0,0,11.48
+73,Yarden Shua,Hapoel Beer Sheva,׳§׳©׳¨,16/08/2024,34,90,0,0,0,0,10.83
+74,Netta Lavi,Hapoel Tel Aviv,FWD,04/08/2024,37,90,0,0,0,1,9.98
+75,Dor Turgeman,Beitar Jerusalem,FWD,04/08/2024,26,90,0,1,0,0,7.61
+76,Sagiv Jehezkel,Hapoel Tel Aviv,Defender,25/03/2024,34,75,0,2,0,0,10.38
+77,Lior Refaelov,Hapoel Beer Sheva,Goalkeeper,03/03/2024,37,60,0,1,2,0,15.38
+78,Miguel Vitor,Beitar Jerusalem,Forward,18/05/2024,25,90,1,0,0,1,8.63
+79,Yarden Shua,Hapoel Beer Sheva,Goalkeeper,26/03/2024,34,90,1,0,0,0,7.78
+80,Manor Solomon,Maccabi Tel Aviv,Defender,19/05/2024,24,90,1,0,2,0,13.4
+81,Raz Shlomo,Beitar Jerusalem,FWD,05/02/2024,5,45,1,0,0,0,11.61
+82,Tai Baribo,Maccabi Tel Aviv,Goalkeeper,10/05/2024,30,60,0,0,0,0,10.78
+83,Anan Khalaili,Hapoel Tel Aviv,FWD,22/05/2024,36,75,0,0,2,0,12.54
+84,Manor Solomon,Hapoel Tel Aviv,׳§׳©׳¨,06/01/2024,36,90,0,0,0,0,9.25
+85,Shon Weissman,Beitar Jerusalem,Forward,05/01/2024,34,15,0,0,0,0,10.34
+86,Roey Gordana,Beitar Jerusalem,׳§׳©׳¨,12/02/2024,30,90,0,0,0,0,11.93
+87,Anan Khalaili,Hapoel Beer Sheva,FWD,14/02/2024,33,90,0,0,0,0,13.67
+88,Mohammad Abu Fani,Hapoel Beer Sheva,FWD,17/06/2024,25,90,0,0,0,0,8.75
+89,Raz Shlomo,Maccabi Tel Aviv,Midfielder,26/05/2024,36,90,0,1,1,0,12.42
+90,Oscar Gloukh,Beitar Jerusalem,Midfielder,27/01/2024,35,0,1,0,1,0,11.07
+91,Dor Turgeman,Hapoel Tel Aviv,׳§׳©׳¨,26/01/2024,18,60,1,0,0,0,10.74
+92,Tai Baribo,Hapoel Beer Sheva,׳—׳׳•׳¥,15/01/2024,31,90,0,0,1,0,10.49
+93,Mohammad Abu Fani,Hapoel Beer Sheva,׳§׳©׳¨,22/07/2024,36,75,0,1,0,0,8.42
+94,Dia Saba,Hapoel Tel Aviv,Midfielder,24/06/2024,32,0,0,1,0,0,11.94
+95,Roey Gordana,Hapoel Beer Sheva,FWD,11/07/2024,35,45,1,0,0,0,9.33
+96,Oscar Gloukh,Maccabi Tel Aviv,Defender,16/05/2024,19,75,1,0,0,0,8.88
+97,Dean David,Beitar Jerusalem,׳§׳©׳¨,17/02/2024,34,15,0,0,0,0,11.83
+98,Tai Baribo,Hapoel Tel Aviv,FWD,04/01/2024,35,0,0,0,1,0,11.68
+99,Oscar Gloukh,Beitar Jerusalem,Defender,08/01/2024,23,60,0,2,0,0,10.62
+100,Omri Altman,Hapoel Beer Sheva,Defender,03/05/2024,36,90,0,2,0,0,12.12
+101,Roey Gordana,  Maccabi Haifa  ,Midfielder,20/07/2024,21,90,0,0,0,0,12.64
+102,Dor Peretz,Hapoel Tel Aviv,׳§׳©׳¨,15/07/2024,18,45,0,0,1,1,12.46
+103,Dean David,Maccabi Tel Aviv,Goalkeeper,24/06/2024,25,90,0,0,1,0,9.71
+104,Dia Saba,Maccabi Haifa,Forward,14/02/2024,24,45,0,0,1,0,12.02
+105,Omri Altman,Hapoel Tel Aviv,Midfielder,23/06/2024,20,90,0,0,0,0,10.82
+106,Sagiv Jehezkel,Maccabi Haifa,Midfielder,24/02/2024,27,90,0,1,0,0,13.09
+107,Anan Khalaili,Maccabi Haifa,Goalkeeper,13/02/2024,27,90,0,0,0,0,10.31
+108,Dia Saba,Maccabi Tel Aviv,Forward,14/03/2024,36,90,0,2,0,0,9.97
+109,Gabi Kanichowsky,Maccabi Haifa,FWD,24/03/2024,31,0,0,1,0,0,9.58
+110,Eyad Abu Abaid,Maccabi Haifa,׳—׳׳•׳¥,07/03/2024,19,45,0,0,1,0,10.78
+111,Eli Dasa,maccabi tel aviv,׳§׳©׳¨,15/07/2024,18,45,0,0,0,0,
+112,Anan Khalaili,Maccabi Haifa,׳—׳׳•׳¥,14/03/2024,35,75,0,0,0,0,11.23
+113,Eran Zahavi,Maccabi Haifa,FWD,15/04/2024,24,90,1,0,0,0,11.02
+114,Eran Zahavi,Maccabi Haifa,Midfielder,13/02/2024,25,75,0,0,0,0,11.51
+115,Omri Altman,Hapoel Tel Aviv,Forward,26/06/2024,18,75,0,0,0,0,10.17
+116,Dan Einbinder,Hapoel Tel Aviv,Midfielder,03/03/2024,20,75,0,0,0,0,9.19
+117,Miguel Vitor,Hapoel Tel Aviv,Defender,15/08/2024,25,90,0,0,0,0,9.06
+118,Dor Peretz,Maccabi Tel Aviv,Midfielder,25/07/2024,32,75,0,1,1,0,11.96
+119,Dean David,Hapoel Beer Sheva,Midfielder,05/04/2024,22,90,1,0,2,0,11.21
+120,Dor Peretz,Maccabi Haifa,FWD,10/07/2024,20,0,0,0,0,0,7.72
+121,Dean David,Beitar Jeru,FWD,25/01/2024,36,45,0,0,0,0,12.15
+122,Anan Khalaili,Maccabi Tel Aviv,FWD,07/06/2024,18,90,0,0,1,0,13.32
+123,Sagiv Jehezkel,Maccabi Haifa,׳—׳׳•׳¥,26/06/2024,32,75,0,1,0,0,9.43
+124,Lior Refaelov,Hapoel Tel Aviv,Defender,12/01/2024,25,60,0,0,0,0,11
+125,Omri Altman,Hapoel Beer Sheva,FWD,17/05/2024,19,90,0,0,1,0,9.79
+126,Raz Shlomo,Beitar Jerusalem,Forward,20/01/2024,20,45,1,0,0,0,11.44
+127,Shon Weissman,Maccabi Haifa,׳—׳׳•׳¥,04/02/2024,31,45,0,0,0,0,8.75
+128,Shon Weissman,Hapoel Tel Aviv,Goalkeeper,03/01/2024,31,90,0,0,0,0,10.39
+129,Dia Saba,Beitar Jerusalem,Forward,13/02/2024,28,90,0,0,0,0,11.97
+130,Dan Einbinder,Hapoel Beer Sheva,׳§׳©׳¨,15/04/2024,33,90,0,0,0,0,12.35
+131,Eran Zahavi,Beitar Jerusalem,׳§׳©׳¨,31/12/2024,21,90,0,0,1,0,11.14
+132,Sagiv Jehezkel,Hapoel Tel Aviv,Forward,02/07/2024,37,90,1,0,0,0,9.99
+133,Anan Khalaili,Beitar Jerusalem,FWD,08/08/2024,22,45,0,1,0,0,8.11
+134,Netta Lavi,Maccabi Tel Aviv,Goalkeeper,17/04/2024,31,90,1,1,0,0,9.36
+135,Eran Zahavi,Beitar Jerusalem,Goalkeeper,19/02/2024,33,90,0,0,0,0,9.8
+136,Omri Altman,Maccabi Haifa,׳—׳׳•׳¥,09/05/2024,35,15,0,0,0,0,9.45
+137,Eran Zahavi,Maccabi Haifa,Goalkeeper,06/04/2024,24,60,1,0,1,0,10.59
+138,Dan Einbinder,Maccabi Tel Aviv,׳§׳©׳¨,26/08/2024,27,90,0,0,0,1,9.99
+139,Tai Baribo,Hapoel Tel Aviv,Defender,02/03/2024,24,90,0,0,1,0,
+140,Manor Solomon,Maccabi Haifa,FWD,24/03/2024,18,90,0,0,1,0,12.3
+141,Eran Zahavi,Hapoel Beer Sheva,Goalkeeper,NaN,36,75,0,1,0,0,9.89
+142,Omri Altman,Maccabi Haifa,׳—׳׳•׳¥,05/01/2024,33,90,0,0,0,1,8.43
+143,Dan Einbinder,Maccabi Haifa,׳§׳©׳¨,01/05/2024,36,75,0,0,2,0,9.45
+144,Shon Weissman,Hapoel Tel Aviv,Defender,22/05/2024,21,0,0,1,0,0,11.38
+145,Manor Solomon,Beitar Jerusalem,Midfielder,06/06/2024,35,90,0,0,0,0,11.52
+146,Dor Peretz,Maccabi Haifa,Midfielder,23/08/2024,19,45,1,0,0,0,11.11
+147,Dean David,Maccabi Tel Aviv,Defender,04/06/2024,18,0,0,0,0,0,12.45
+148,Tai Baribo,Beitar Jerusalem,׳§׳©׳¨,11/06/2024,32,90,1,0,0,0,10.22
+149,Tai Baribo,Hapoel Beer Sheva,׳—׳׳•׳¥,24/07/2024,22,45,0,1,1,0,13.58
+150,Miguel Vitor,Hapoel Tel Aviv,Defender,09/07/2024,37,75,1,0,2,0,11.73
+151,Oscar Gloukh,Hapoel Beer Sheva,FWD,03/03/2024,28,15,0,0,0,0,6.71
+152,Eyad Abu Abaid,Beitar Jerusalem,FWD,08/05/2024,27,75,0,0,0,0,13.2
+153,Dor Peretz,Beitar Jerusalem,Midfielder,04/08/2024,19,75,0,0,0,0,9.35
+154,Eli Dasa,Beitar Jerusalem,Goalkeeper,06/02/2024,20,75,0,0,0,0,8.95
+155,Ramzi Safouri,Hapoel Beer Sheva,׳—׳׳•׳¥,20/04/2024,29,45,0,0,0,0,11.29
+156,Yarden Shua,Beitar Jerusalem,Midfielder,11/04/2024,37,60,0,0,0,0,7.89
+157,Dan Einbinder,Hapoel Beer Sheva,Goalkeeper,15/06/2024,22,75,0,0,0,0,9.46
+158,Shon Weissman,Beitar Jerusalem,Goalkeeper,22/01/2024,22,45,2,0,2,0,12.84
+159,Dor Peretz,Maccabi Tel Aviv,FWD,24/06/2024,23,90,0,0,0,0,11.33
+160,Oscar Gloukh,Beitar Jerusalem,׳§׳©׳¨,19/06/2024,26,90,1,1,0,0,11.72
+161,Tai Baribo,Hapoel Beer Sheva,Forward,25/02/2024,19,90,0,0,0,0,9.51
+162,Gabi Kanichowsky,Maccabi Haifa,׳§׳©׳¨,15/03/2024,29,90,1,1,1,0,
+163,Yarden Shua,Beitar Jerusalem,Forward,08/02/2024,20,90,0,1,0,0,11.56
+164,Oscar Gloukh,Maccabi Haifa,Defender,19/05/2024,37,15,1,1,0,0,11.9
+165,Dor Peretz,Maccabi Tel Aviv,FWD,12/05/2024,29,90,0,0,0,0,11.83
+166,Eyad Abu Abaid,Hapoel Tel Aviv,Goalkeeper,06/02/2024,34,75,0,0,1,0,10.81
+167,Netta Lavi,Maccabi Tel Aviv,׳—׳׳•׳¥,22/04/2024,27,90,2,2,0,0,9.05
+168,Lior Refaelov,Beitar Jerusalem,Forward,19/04/2024,31,45,0,0,0,0,14.16
+169,Miguel Vitor,Maccabi Haifa,׳§׳©׳¨,01/04/2024,34,0,2,1,0,0,11.22
+170,Oscar Gloukh,Maccabi Haifa,Goalkeeper,17/04/2024,35,90,2,1,0,0,10.24
+171,Roey Gordana,Hapoel Beer Sheva,Forward,15/01/2024,36,45,0,0,0,0,10.25
+172,Mohammad Abu Fani,Maccabi Haifa,Forward,26/06/2024,34,90,0,0,1,0,10.72
+173,Hisham Layous,Hapoel Beer Sheva,Forward,06/05/2024,31,45,0,0,0,0,12.1
+174,Sagiv Jehezkel,Hapoel Tel Aviv,׳—׳׳•׳¥,11/07/2024,26,90,0,0,0,0,10.78
+175,Sagiv Jehezkel,Beitar Jerusalem,FWD,04/05/2024,25,15,0,1,0,0,11.79
+176,Ramzi Safouri,Hapoel Beer Sheva,׳—׳׳•׳¥,11/03/2024,19,90,2,1,1,0,10.73
+177,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,01/06/2024,30,75,0,1,0,0,10.33
+178,Shon Weissman,Maccabi Haifa,Goalkeeper,18/08/2024,24,60,0,0,0,0,11.46
+179,Roey Gordana,Maccabi Haifa,FWD,10/05/2024,26,90,0,0,2,0,11.4
+180,Dor Peretz,Hapoel Tel Aviv,FWD,23/02/2024,28,90,0,1,1,0,
+181,Omri Altman,Maccabi Haifa,FWD,12/02/2024,31,90,2,1,0,0,9.38
+182,Omri Altman,Hapoel Tel Aviv,׳§׳©׳¨,13/08/2024,21,90,2,0,0,0,11.01
+183,Roey Gordana,Hapoel Beer Sheva,FWD,02/04/2024,30,75,1,0,1,0,10.62
+184,Roey Gordana,Hapoel Beer Sheva,׳—׳׳•׳¥,01/07/2024,19,90,0,0,0,0,9.67
+185,Ramzi Safouri,Hapoel Tel Aviv,FWD,05/01/2024,22,90,0,0,1,0,9.24
+186,Oscar Gloukh,Hapoel Beer Sheva,Defender,17/01/2024,28,90,0,3,1,0,11.12
+187,Dean David,Hapoel Beer Sheva,Goalkeeper,11/07/2024,23,45,0,0,0,0,
+188,Eran Zahavi,Hapoel Beer Sheva,FWD,24/06/2024,35,90,0,0,0,0,9.96
+189,Dor Peretz,Maccabi Tel Aviv,Goalkeeper,23/03/2024,27,90,0,0,0,0,9.63
+190,Hisham Layous,Beitar Jerusalem,Defender,17/05/2024,21,90,0,1,0,0,9.25
+191,Anan Khalaili,Maccabi Haifa,Defender,12/02/2024,26,90,0,0,0,0,11.07
+192,Dean David,Maccabi Tel Aviv,Goalkeeper,14/05/2024,23,45,0,0,1,0,9.29
+193,Dan Einbinder,Hapoel Beer Sheva,Forward,24/03/2024,19,90,0,0,0,0,13.86
+194,Omri Altman,Hapoel Tel Aviv,Midfielder,09/02/2024,34,90,0,1,1,0,9.88
+195,Eyad Abu Abaid,Hapoel Beer Sheva,׳§׳©׳¨,12/03/2024,22,60,0,0,0,0,6.86
+196,Miguel Vitor,Beitar Jerusalem,Forward,03/01/2024,23,60,0,1,0,0,10.45
+197,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,08/08/2024,29,90,0,0,0,0,10.39
+198,Dia Saba,Hapoel Tel Aviv,׳—׳׳•׳¥,22/04/2024,27,60,0,0,0,0,12.17
+199,Tai Baribo,Beitar Jerusalem,׳§׳©׳¨,08/03/2024,23,15,1,0,0,0,10.93
+200,Netta Lavi,Hapoel Beer Sheva,׳§׳©׳¨,09/05/2024,25,90,0,0,0,0,9.25
+201,Dia Saba,Beitar Jerusalem,Forward,14/04/2024,19,60,3,1,1,0,10.07
+202,Dean David,Maccabi Haifa,FWD,03/05/2024,29,60,0,1,0,0,10.99
+203,Ramzi Safouri,Maccabi Haifa,׳—׳׳•׳¥,05/05/2024,30,90,0,0,0,0,7.25
+204,Eli Dasa,Hapoel Beer Sheva,׳—׳׳•׳¥,19/03/2024,24,90,0,0,0,0,12.51
+205,Eli Dasa,Beitar Jerusalem,Defender,14/02/2024,27,90,0,0,0,0,9.25
+206,Ramzi Safouri,Hapoel Tel Aviv,׳§׳©׳¨,04/01/2024,30,45,0,0,0,0,12.63
+207,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,13/02/2024,34,0,0,1,0,0,11.09
+208,Dor Peretz,Maccabi Haifa,Defender,25/02/2024,31,75,0,0,0,0,11.44
+209,Lior Refaelov,Maccabi Haifa,Goalkeeper,08/08/2024,19,90,1,0,0,0,
+210,Eran Zahavi,Hapoel Beer Sheva,Midfielder,07/08/2024,28,75,0,0,0,0,11.36
+211,Eli Dasa,Beitar Jerusalem,׳—׳׳•׳¥,14/08/2024,18,75,1,0,1,0,11.51
+212,Dan Einbinder,Maccabi Haifa,Goalkeeper,19/05/2024,36,90,1,0,0,0,10.25
+213,Eli Dasa,Beitar Jerusalem,Goalkeeper,06/01/2024,21,90,1,0,0,0,11.06
+214,Dia Saba,Maccabi Haifa,FWD,23/07/2024,36,45,0,0,0,0,
+215,Eli Dasa,Maccabi Haifa,Midfielder,15/01/2024,28,90,0,0,0,0,9.98
+216,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,25/01/2024,25,45,0,0,1,0,13.45
+217,Lior Refaelov,Maccabi Haifa,Goalkeeper,01/07/2024,28,90,0,0,0,0,9.29
+218,Lior Refaelov,Hapoel Tel Aviv,Midfielder,23/02/2024,21,90,0,0,0,0,10.73
+219,Netta Lavi,Hapoel Beer Sheva,Midfielder,14/05/2024,34,90,0,1,0,0,10.67
+220,Shon Weissman,Hapoel Beer Sheva,Goalkeeper,08/08/2024,24,90,0,0,0,0,10.03
+221,Dan Einbinder,Beitar Jerusalem,Midfielder,19/07/2024,25,15,0,0,0,0,11.27
+222,Omri Altman,Maccabi Haifa,Goalkeeper,19/06/2024,20,90,1,1,0,0,11.38
+223,Omri Altman,Hapoel Tel Aviv,Goalkeeper,06/03/2024,19,45,0,0,1,0,9.11
+224,Eyad Abu Abaid,Beitar Jerusalem,FWD,07/03/2024,32,75,0,1,0,1,
+225,Lior Refaelov,Maccabi Tel Aviv,Forward,08/02/2024,22,45,1,0,0,0,8.88
+226,Mohammad Abu Fani,Beitar Jerusalem,Goalkeeper,20/07/2024,18,90,2,0,0,0,11.68
+227,Sagiv Jehezkel,Beitar Jerusalem,Defender,15/05/2024,21,45,0,0,0,0,10.76
+228,Hisham Layous,Maccabi Haifa,׳—׳׳•׳¥,01/04/2024,32,60,2,1,0,0,10.62
+229,Shon Weissman,Maccabi Tel Aviv,׳§׳©׳¨,07/03/2024,37,90,0,0,0,0,11.49
+230,Yarden Shua,Beitar Jerusalem,Forward,04/05/2024,36,90,1,0,1,0,10.09
+231,Shon Weissman,Hapoel Tel Aviv,Forward,06/01/2024,20,45,1,0,0,0,11.87
+232,Gabi Kanichowsky,Hapoel Tel Aviv,Forward,01/05/2024,37,0,0,0,1,0,9.08
+233,Dia Saba,Hapoel Beer Sheva,FWD,05/03/2024,28,90,1,1,2,0,12.62
+234,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,23/01/2024,34,60,0,0,1,0,9.67
+235,Hisham Layous,Maccabi Tel Aviv,FWD,04/06/2024,30,15,0,0,0,0,7.96
+236,Dia Saba,Hapoel Beer Sheva,Goalkeeper,02/02/2024,28,45,0,0,0,0,10.01
+237,Dan Einbinder,Beitar Jerusalem,FWD,05/03/2024,19,0,0,0,0,0,9.84
+238,Ramzi Safouri,Maccabi Tel Aviv,FWD,10/01/2024,26,60,0,0,2,0,10
+239,Lior Refaelov,Hapoel Tel Aviv,׳—׳׳•׳¥,22/06/2024,19,90,0,1,0,0,10.85
+240,Hisham Layous,Hapoel Tel Aviv,Defender,13/07/2024,26,90,1,0,0,0,12.15
+241,Netta Lavi,Maccabi Haifa,FWD,15/04/2024,26,90,0,0,0,0,10.21
+242,Gabi Kanichowsky,Maccabi Tel Aviv,׳—׳׳•׳¥,13/08/2024,25,60,0,0,0,0,9.46
+243,Raz Shlomo,Beitar Jerusalem,Midfielder,20/08/2024,34,60,2,1,2,0,8.81
+244,Raz Shlomo,Hapoel Beer Sheva,Defender,15/05/2024,18,90,0,0,2,0,9.8
+245,Omri Altman,Hapoel Beer Sheva,FWD,08/05/2024,28,45,0,0,0,0,7.67
+246,Dean David,Beitar Jerusalem,׳§׳©׳¨,15/04/2024,25,60,1,0,0,0,9.41
+247,Hisham Layous,Maccabi Haifa,Forward,12/05/2024,27,75,1,0,0,0,12.37
+248,Raz Shlomo,Hapoel Beer Sheva,Midfielder,02/03/2024,24,90,1,0,0,0,9.26
+249,Eran Zahavi,Maccabi Tel Aviv,Midfielder,19/03/2024,20,75,0,1,0,0,
+250,Ramzi Safouri,Maccabi Haifa,׳—׳׳•׳¥,04/04/2024,20,90,0,0,1,0,8.66
+251,Ramzi Safouri,Maccabi Haifa,׳—׳׳•׳¥,1/28/2024,25,90,0,0,0,0,10.18
+252,Eyad Abu Abaid,Beitar Jerusalem,FWD,02/12/2024,26,90,0,0,0,0,11.12
+253,Hisham Layous,Beitar Jerusalem,FWD,09/04/2024,28,90,1,0,0,0,10.52
+254,Dean David,Hapoel Beer Sheva,Forward,11/26/2024,27,69,1,0,0,1,9.34
+255,Hisham Layous,Hapoel Tel Aviv,׳—׳׳•׳¥,08/11/2024,30,79,0,0,1,0,9.42
+256,Dan Einbinder,Hapoel Beer Sheva,FWD,12/10/2024,27,90,1,0,0,0,11.09
+257,Dor Peretz,Maccabi Tel Aviv,Defender,01/04/2024,25,90,0,0,1,0,9.44
+258,Manor Solomon,Beitar Jerusalem,Defender,4/14/2025,28,90,0,0,0,0,11.65
+259,Shon Weissman,Maccabi Haifa,׳§׳©׳¨,10/21/2024,27,67,0,0,0,0,6.4
+260,Hisham Layous,Beitar Jerusalem,׳—׳׳•׳¥,07/05/2024,29,44,1,0,0,0,4.5
+261,Gabi Kanichowsky,Maccabi Tel Aviv,׳—׳׳•׳¥,9/24/2024,31,71,1,1,0,0,7.21
+262,Shon Weissman,Beitar Jerusalem,׳—׳׳•׳¥,5/22/2024,27,90,1,0,0,0,9.58
+263,Oscar Gloukh,Beitar Jerusalem,Goalkeeper,1/13/2025,30,86,0,0,0,0,9.11
+264,Mohammad Abu Fani,Maccabi Haifa,׳—׳׳•׳¥,3/15/2025,30,90,0,0,0,0,9.72
+265,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,10/30/2024,28,90,0,1,1,0,8.63
+266,Tai Baribo,Maccabi Tel Aviv,׳§׳©׳¨,7/20/2024,38,90,1,0,0,0,10.32
+267,Sagiv Jehezkel,Maccabi Haifa,Forward,1/25/2025,26,90,0,1,0,0,10.98
+268,Raz Shlomo,Beitar Jerusalem,FWD,10/18/2024,25,72,0,0,2,0,7.92
+269,Gabi Kanichowsky,Maccabi Tel Aviv,׳§׳©׳¨,4/25/2024,31,90,2,2,1,0,11.38
+270,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,05/07/2024,30,90,0,2,0,0,12.26
+271,Miguel Vitor,Hapoel Tel Aviv,Defender,02/01/2025,30,90,0,0,1,0,10.38
+272,Miguel Vitor,Beitar Jerusalem,Defender,12/30/2024,29,90,0,0,1,0,11.29
+273,Dor Peretz,Maccabi Haifa,׳§׳©׳¨,8/29/2024,25,90,0,0,0,0,10.65
+274,Gabi Kanichowsky,Hapoel Tel Aviv,׳—׳׳•׳¥,1/30/2025,31,90,0,0,0,0,10.62
+275,Shon Weissman,Maccabi Tel Aviv,Forward,03/11/2024,26,86,0,3,0,0,9.35
+276,Lior Refaelov,Hapoel Beer Sheva,Goalkeeper,1/17/2024,26,66,2,1,0,0,8.5
+277,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,2/19/2024,29,90,1,1,1,0,10.49
+278,Gabi Kanichowsky,Maccabi Haifa,Forward,2/24/2025,31,90,1,3,0,0,8.46
+279,Eli Dasa,Beitar Jerusalem,Defender,6/21/2024,26,77,0,0,2,0,7.7
+280,Raz Shlomo,Hapoel Tel Aviv,Midfielder,12/12/2024,24,75,0,0,0,0,10.28
+281,Oscar Gloukh,Hapoel Beer Sheva,Defender,12/25/2024,29,90,0,0,1,0,9.58
+282,Dean David,Beitar Jeru,Forward,02/06/2025,27,90,0,0,0,0,8.63
+283,Omri Altman,Hapoel Tel Aviv,FWD,6/16/2024,27,90,0,0,0,0,9.54
+284,Eli Dasa,Beitar Jerusalem,Goalkeeper,3/31/2025,22,90,0,0,0,0,10.04
+285,Dean David,Maccabi Tel Aviv,FWD,4/20/2024,28,90,0,2,0,0,11.52
+286,Sagiv Jehezkel,Hapoel Tel Aviv,FWD,3/18/2025,28,32,0,0,0,0,3.25
+287,Gabi Kanichowsky,Maccabi Haifa,Midfielder,1/16/2025,31,90,1,2,0,0,10.94
+288,Dor Turgeman,Maccabi Tel Aviv,׳—׳׳•׳¥,04/12/2024,24,90,0,0,1,0,10.77
+289,Eyad Abu Abaid,Hapoel Tel Aviv,׳—׳׳•׳¥,1/27/2025,28,51,1,0,0,0,5.9
+290,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,12/04/2024,30,90,1,0,0,0,11.11
+291,Roey Gordana,Maccabi Haifa,Defender,03/06/2024,31,90,0,0,1,0,10.6
+292,Ramzi Safouri,Hapoel Beer Sheva,Defender,10/31/2024,23,60,0,0,0,0,6.26
+293,Dean David,Beitar Jeru,Goalkeeper,01/07/2025,28,75,1,0,0,0,8.81
+294,Eran Zahavi,Maccabi Haifa,Midfielder,11/12/2024,26,90,0,0,0,0,11
+295,Eli Dasa,Beitar Jerusalem,Goalkeeper,11/12/2024,24,90,0,0,0,0,9.71
+296,Manor Solomon,Hapoel Tel Aviv,Defender,3/31/2024,29,82,0,0,0,0,8.74
+297,Mohammad Abu Fani,Maccabi Haifa,Forward,2/13/2025,27,85,1,0,2,0,8.47
+298,Lior Refaelov,Hapoel Tel Aviv,Midfielder,1/17/2024,28,90,0,0,0,0,11
+299,Eli Dasa,maccabi tel aviv,Goalkeeper,3/30/2025,25,90,0,0,0,0,10.06
+300,Eyad Abu Abaid,Beitar Jerusalem,FWD,1/29/2024,28,90,0,0,0,0,10.89
+301,Tai Baribo,Hapoel Beer Sheva,Goalkeeper,03/12/2025,37,90,2,0,0,0,10.51
+302,Dan Einbinder,Maccabi Haifa,׳§׳©׳¨,5/28/2024,26,79,1,0,0,0,10.4
+303,Dor Turgeman,Hapoel Tel Aviv,׳§׳©׳¨,04/01/2024,24,61,0,1,0,0,7.92
+304,Dor Peretz,Maccabi Haifa,Forward,7/24/2024,25,90,5,0,1,0,9.64
+305,Dor Turgeman,Beitar Jerusalem,׳§׳©׳¨,2/19/2025,23,90,0,1,2,0,11.85
+306,Lior Refaelov,Hapoel Tel Aviv,Midfielder,2/26/2025,25,38,0,2,0,0,5.09
+307,Sagiv Jehezkel,Hapoel Tel Aviv,Midfielder,8/22/2024,26,90,0,1,0,0,10.76
+308,Eyad Abu Abaid,Hapoel Beer Sheva,FWD,5/16/2024,29,90,0,0,0,0,11.07
+309,Oscar Gloukh,Maccabi Tel Aviv,FWD,5/31/2024,30,65,0,0,0,0,7.14
+310,Tai Baribo,Hapoel Beer Sheva,Forward,8/31/2024,38,79,1,4,0,0,9.25
+311,Dia Saba,Maccabi Haifa,Forward,05/02/2024,29,90,3,0,0,0,8.77
+312,Yarden Shua,Beitar Jerusalem,Forward,04/10/2024,32,41,2,1,0,0,4.08
+313,Netta Lavi,Hapoel Tel Aviv,Goalkeeper,02/07/2025,31,50,0,0,0,0,5.96
+314,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,6/24/2024,29,90,0,0,0,0,10.07
+315,Ramzi Safouri,Hapoel Tel Aviv,FWD,05/02/2024,24,90,0,0,1,0,8.82
+316,Manor Solomon,Beitar Jerusalem,Midfielder,12/20/2024,28,90,1,0,0,0,10.75
+317,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,04/03/2025,29,87,0,0,1,0,8.99
+318,Hisham Layous,Hapoel Tel Aviv,Goalkeeper,11/06/2024,26,72,0,0,0,0,8.38
+319,Netta Lavi,Maccabi Haifa,Goalkeeper,2/15/2025,30,75,0,0,0,0,7.58
+320,Roey Gordana,Hapoel Beer Sheva,Goalkeeper,02/02/2024,29,89,1,1,1,0,8.12
+321,Dan Einbinder,Beitar Jerusalem,Goalkeeper,04/06/2025,25,90,0,0,0,0,8.46
+322,Dor Peretz,Maccabi Tel Aviv,FWD,9/21/2024,26,90,0,0,2,0,9
+323,Eyad Abu Abaid,Hapoel Beer Sheva,FWD,6/28/2024,29,90,3,0,0,0,10.51
+324,Gabi Kanichowsky,Hapoel Tel Aviv,Forward,3/27/2025,30,90,0,3,0,0,11.31
+325,Yarden Shua,Hapoel Beer Sheva,Goalkeeper,10/01/2024,30,71,1,0,0,0,8.63
+326,Dan Einbinder,Hapoel Tel Aviv,Midfielder,02/06/2025,24,36,0,3,0,0,4.85
+327,Tai Baribo,Maccabi Tel Aviv,׳§׳©׳¨,06/01/2024,37,90,2,0,0,0,12.82
+328,Roey Gordana,Hapoel Beer Sheva,Goalkeeper,04/06/2025,31,90,0,0,0,0,10.15
+329,Gabi Kanichowsky,Maccabi Tel Aviv,׳§׳©׳¨,6/25/2024,30,51,0,1,0,0,6.91
+330,Mohammad Abu Fani,Hapoel Beer Sheva,Midfielder,1/28/2024,27,80,0,0,1,0,9.49
+331,Manor Solomon,Hapoel Tel Aviv,׳§׳©׳¨,06/02/2024,29,90,1,0,1,0,9.73
+332,Dia Saba,Hapoel Tel Aviv,Goalkeeper,03/04/2024,29,90,1,0,0,0,9.68
+333,Yarden Shua,Maccabi Tel Aviv,Midfielder,08/07/2024,31,90,0,1,1,0,13.28
+334,Eyad Abu Abaid,Beitar Jerusalem,FWD,09/05/2024,27,63,2,0,0,0,5.81
+335,Sagiv Jehezkel,Hapoel Beer Sheva,Goalkeeper,03/06/2025,27,3,1,0,0,0,0.29
+336,Yarden Shua,Maccabi Tel Aviv,׳—׳׳•׳¥,5/23/2024,31,82,2,0,0,0,9.17
+337,Shon Weissman,Maccabi Haifa,Forward,7/25/2024,28,90,2,0,0,0,10.87
+338,Oscar Gloukh,Hapoel Beer Sheva,Defender,03/05/2024,28,90,0,0,0,0,9.57
+339,Lior Refaelov,Hapoel Tel Aviv,Goalkeeper,11/29/2024,27,63,0,0,0,0,7.39
+340,Hisham Layous,Maccabi Haifa,FWD,07/08/2024,27,90,0,1,0,0,8.73
+341,Sagiv Jehezkel,Maccabi Tel Aviv,׳—׳׳•׳¥,1/19/2024,28,88,1,1,0,0,9.48
+342,Eyad Abu Abaid,Hapoel Tel Aviv,Midfielder,1/25/2024,26,90,0,2,0,0,10.49
+343,Oscar Gloukh,Hapoel Beer Sheva,Midfielder,02/12/2025,29,61,1,0,0,0,7.97
+344,Dor Turgeman,Maccabi Haifa,Goalkeeper,03/11/2025,22,90,0,1,0,0,8.82
+345,Omri Altman,Maccabi Haifa,Defender,01/03/2024,25,90,0,0,0,0,11.9
+346,Eli Dasa,Hapoel Beer Sheva,Goalkeeper,4/19/2024,23,90,0,0,0,0,8.17
+347,Eli Dasa,Beitar Jerusalem,׳—׳׳•׳¥,11/21/2024,24,90,0,0,0,0,10.84
+348,Dan Einbinder,Hapoel Beer Sheva,׳§׳©׳¨,04/11/2024,25,55,1,1,0,0,7.77
+349,Eran Zahavi,Hapoel Beer Sheva,Goalkeeper,02/04/2024,26,90,0,0,1,0,9.59
+350,Anan Khalaili,Hapoel Tel Aviv,FWD,2/25/2024,27,90,0,0,0,0,9.89
+351,Omri Altman,Hapoel Tel Aviv,Defender,3/20/2024,26,1,1,1,0,0,0.13
+352,Oscar Gloukh,Maccabi Tel Aviv,Defender,07/01/2024,29,90,0,0,0,0,9.37
+353,Ramzi Safouri,Maccabi Haifa,FWD,1/17/2024,23,90,0,0,0,0,10.31
+354,Hisham Layous,Beitar Jerusalem,Goalkeeper,5/16/2024,28,82,0,0,0,0,8.13
+355,Raz Shlomo,Hapoel Beer Sheva,Midfielder,9/24/2024,24,90,0,0,0,0,11.2
+356,Dor Turgeman,Hapoel Tel Aviv,Goalkeeper,01/03/2025,22,5,1,0,0,0,0.51
+357,Miguel Vitor,Beitar Jerusalem,Forward,9/19/2024,31,90,3,0,0,0,9.47
+358,Lior Refaelov,Maccabi Haifa,Forward,05/10/2024,25,90,0,0,0,0,10.38
+359,Dia Saba,Hapoel Beer Sheva,Forward,7/25/2024,27,32,1,2,0,0,3.47
+360,Tai Baribo,Hapoel Beer Sheva,FWD,03/09/2024,37,0,0,0,0,0,0
+361,Hisham Layous,Hapoel Tel Aviv,Forward,2/16/2025,28,90,3,0,0,0,9.48
+362,Lior Refaelov,Hapoel Beer Sheva,Goalkeeper,2/18/2024,27,74,0,0,0,0,7.55
+363,Netta Lavi,Hapoel Tel Aviv,FWD,9/17/2024,29,90,0,0,0,0,9.4
+364,Miguel Vitor,Maccabi Haifa,Defender,01/11/2024,29,36,1,1,0,0,4.38
+365,Gabi Kanichowsky,Hapoel Tel Aviv,׳§׳©׳¨,02/12/2025,32,90,0,0,0,0,11.25
+366,Shon Weissman,Maccabi Haifa,Forward,12/22/2024,27,43,1,0,0,0,5.02
+367,Dor Turgeman,Hapoel Tel Aviv,׳—׳׳•׳¥,3/16/2025,22,83,0,0,1,0,11.01
+368,Eyad Abu Abaid,Hapoel Beer Sheva,׳§׳©׳¨,8/25/2024,28,90,2,0,0,0,10.3
+369,Dan Einbinder,Beitar Jerusalem,Forward,4/22/2024,27,90,0,0,0,1,8.32
+370,Omri Altman,Hapoel Tel Aviv,Midfielder,2/15/2025,26,63,0,1,0,0,7.72
+371,Roey Gordana,Hapoel Beer Sheva,Forward,7/14/2024,27,85,1,0,0,0,8.28
+372,Dor Turgeman,Hapoel Tel Aviv,FWD,07/04/2024,21,4,0,1,0,0,0.43
+373,Tai Baribo,Beitar Jerusalem,FWD,07/05/2024,36,90,0,0,0,0,8.95
+374,Eli Dasa,Beitar Jerusalem,Forward,12/15/2024,25,90,1,0,0,0,9.94
+375,Hisham Layous,Hapoel Tel Aviv,Goalkeeper,7/30/2024,27,90,0,0,0,0,10.43
+376,Dia Saba,Beitar Jerusalem,Forward,02/12/2025,27,84,2,0,0,0,7.77
+377,Netta Lavi,Hapoel Tel Aviv,FWD,3/16/2025,29,90,3,0,1,0,8.47
+378,Ramzi Safouri,Maccabi Haifa,FWD,12/26/2024,25,90,0,0,1,0,8.69
+379,Dan Einbinder,Maccabi Tel Aviv,׳§׳©׳¨,4/17/2024,27,73,0,1,0,0,10.82
+380,Tai Baribo,Hapoel Tel Aviv,Goalkeeper,11/22/2024,36,90,0,0,0,0,11.13
+381,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,02/01/2025,31,72,0,0,0,0,8.56
+382,Ramzi Safouri,Maccabi Haifa,׳§׳©׳¨,10/11/2024,23,58,0,0,0,0,6.61
+383,Dor Turgeman,Maccabi Haifa,Goalkeeper,7/13/2024,24,90,1,0,0,0,10.85
+384,Eyad Abu Abaid,Maccabi Tel Aviv,FWD,02/10/2025,27,90,0,0,1,0,10.39
+385,Eli Dasa,Maccabi Tel Aviv,׳—׳׳•׳¥,02/08/2024,25,90,1,0,0,0,8.73
+386,Miguel Vitor,Maccabi Haifa,Midfielder,6/22/2024,31,90,0,1,0,0,11.61
+387,Anan Khalaili,Maccabi Haifa,FWD,6/15/2024,27,90,0,2,0,0,10.22
+388,Anan Khalaili,Maccabi Haifa,Goalkeeper,4/17/2025,28,90,1,0,0,0,10.19
+389,Netta Lavi,Maccabi Tel Aviv,FWD,04/03/2025,32,90,0,0,0,0,8.38
+390,Netta Lavi,Hapoel Beer Sheva,Midfielder,4/26/2025,29,90,0,0,0,0,9.57
+391,Raz Shlomo,Hapoel Tel Aviv,FWD,11/14/2024,24,79,3,0,0,0,8.97
+392,Netta Lavi,Maccabi Tel Aviv,׳§׳©׳¨,6/16/2024,30,90,0,0,0,0,9.38
+393,Dan Einbinder,Maccabi Haifa,FWD,1/22/2025,25,0,0,0,0,0,0
+394,Oscar Gloukh,Maccabi Haifa,Defender,02/11/2024,29,90,0,0,0,0,10.32
+395,Lior Refaelov,Maccabi Haifa,FWD,10/12/2024,25,90,0,0,0,0,10.62
+396,Sagiv Jehezkel,Maccabi Haifa,Forward,5/16/2024,26,90,1,0,0,0,9.59
+397,Dean David,Beitar Jerusalem,FWD,2/19/2025,29,90,0,0,0,0,8.78
+398,Netta Lavi,Hapoel Beer Sheva,FWD,5/14/2024,30,90,0,0,0,0,10.75
+399,Manor Solomon,Maccabi Tel Aviv,Defender,05/11/2024,28,90,0,0,0,0,10.47
+400,Oscar Gloukh,Hapoel Beer Sheva,Defender,11/18/2024,29,90,0,1,0,0,8.95
+401,Sagiv Jehezkel,Maccabi Haifa,Forward,03/12/2024,26,90,0,0,0,0,11.15
+402,Sagiv Jehezkel,Hapoel Beer Sheva,Defender,1/13/2025,28,66,0,0,0,0,7.54
+403,Dean David,Maccabi Tel Aviv,Defender,03/09/2024,28,90,0,0,0,0,10.02
+404,Anan Khalaili,Maccabi Tel Aviv,FWD,10/15/2024,28,62,0,0,0,0,6.87
+405,Lior Refaelov,Hapoel Tel Aviv,Forward,2/23/2025,27,1,2,1,1,0,0.1
+406,Dor Peretz,Beitar Jerusalem,FWD,03/11/2024,27,90,0,0,0,0,10.11
+407,Anan Khalaili,Beitar Jerusalem,FWD,2/13/2025,28,90,0,0,0,0,11.21
+408,Oscar Gloukh,Maccabi Tel Aviv,Midfielder,09/02/2024,28,90,0,0,0,0,10.06
+409,Dean David,Beitar Jerusalem,FWD,1/31/2025,27,76,0,2,1,0,8.72
+410,Dor Peretz,Maccabi Tel Aviv,Defender,05/03/2024,25,79,0,0,1,0,9.38
+411,Shon Weissman,Maccabi Haifa,׳—׳׳•׳¥,01/12/2025,26,90,0,1,1,0,9.23
+412,Eran Zahavi,Maccabi Tel Aviv,Goalkeeper,12/15/2024,24,61,0,0,0,0,6.59
+413,Mohammad Abu Fani,Hapoel Beer Sheva,Forward,4/14/2024,28,90,0,0,0,0,8.5
+414,Yarden Shua,Maccabi Tel Aviv,Goalkeeper,1/14/2024,32,39,3,1,0,0,4.8
+415,Roey Gordana,Hapoel Beer Sheva,Forward,5/29/2024,31,90,1,0,0,1,9.79
+416,Oscar Gloukh,Beitar Jerusalem,Midfielder,06/08/2024,28,90,0,0,1,0,12.01
+417,Anan Khalaili,Maccabi Haifa,Midfielder,2/15/2025,28,48,0,2,0,0,6.45
+418,Yarden Shua,Beitar Jerusalem,Forward,6/26/2024,31,0,0,0,0,0,0
+419,Raz Shlomo,Hapoel Tel Aviv,Midfielder,10/06/2024,23,0,0,0,0,0,0
+420,Lior Refaelov,Maccabi Tel Aviv,Forward,5/27/2024,26,90,2,1,0,0,8.35
+421,Dia Saba,Maccabi Haifa,Forward,3/17/2024,30,67,0,1,0,0,6.27
+422,Raz Shlomo,Hapoel Beer Sheva,Forward,02/05/2024,23,64,0,2,0,0,6.75
+423,Oscar Gloukh,Maccabi Haifa,Midfielder,10/06/2024,29,79,2,0,2,0,11.11
+424,Tai Baribo,Hapoel Tel Aviv,Midfielder,08/07/2024,37,90,0,0,0,0,10
+425,Eli Dasa,Hapoel Beer Sheva,׳—׳׳•׳¥,5/23/2024,25,90,0,0,0,0,8.66
+426,Lior Refaelov,Hapoel Tel Aviv,׳§׳©׳¨,4/29/2024,26,79,0,0,1,0,8.21
+427,Eran Zahavi,Maccabi Haifa,FWD,01/02/2024,27,90,0,0,0,0,9.14
+428,Raz Shlomo,Hapoel Beer Sheva,Midfielder,6/14/2024,25,90,0,0,0,0,10.01
+429,Dan Einbinder,Hapoel Tel Aviv,Goalkeeper,12/05/2024,26,90,0,0,0,0,10.89
+430,Lior Refaelov,Maccabi Tel Aviv,Goalkeeper,1/16/2024,25,90,0,0,0,0,8.56
+431,Anan Khalaili,Hapoel Tel Aviv,Goalkeeper,2/28/2024,27,90,0,1,1,0,9.2
+432,Omri Altman,Hapoel Tel Aviv,FWD,1/25/2024,25,90,0,0,1,0,9.46
+433,Dor Turgeman,Hapoel Tel Aviv,׳§׳©׳¨,11/27/2024,23,90,1,2,0,0,11.21
+434,Tai Baribo,Beitar Jerusalem,Defender,04/03/2025,36,90,0,1,1,0,10.08
+435,Dan Einbinder,Beitar Jerusalem,Forward,11/02/2024,24,90,0,0,0,0,8.49
+436,Dean David,Maccabi Tel Aviv,Goalkeeper,4/21/2024,26,90,0,0,0,0,11.85
+437,Eyad Abu Abaid,Hapoel Beer Sheva,׳§׳©׳¨,9/16/2024,29,90,0,0,1,0,13.18
+438,Eli Dasa,Maccabi Haifa,Goalkeeper,2/17/2024,23,90,0,0,0,0,9.76
+439,Eyad Abu Abaid,Beitar Jerusalem,FWD,07/09/2024,29,90,0,0,0,0,9.07
+440,Dean David,Maccabi Tel Aviv,Defender,02/12/2025,26,71,0,1,2,0,6.77
+441,Lior Refaelov,Maccabi Tel Aviv,Midfielder,2/14/2024,26,90,0,0,0,0,10.74
+442,Dean David,Hapoel Beer Sheva,Defender,03/10/2024,27,90,0,0,0,0,11.01
+443,Eran Zahavi,Maccabi Haifa,Forward,1/24/2024,26,61,0,0,1,0,7.57
+444,Miguel Vitor,Hapoel Tel Aviv,Defender,02/08/2024,29,90,0,0,0,0,8.96
+445,Gabi Kanichowsky,Hapoel Tel Aviv,Forward,4/25/2024,30,90,3,1,0,0,10.8
+446,Dean David,Maccabi Tel Aviv,Goalkeeper,6/26/2024,27,90,0,0,1,0,9.35
+447,Oscar Gloukh,Maccabi Haifa,Defender,10/14/2024,28,71,0,0,1,1,8.15
+448,Eran Zahavi,Maccabi Tel Aviv,Midfielder,02/05/2024,26,83,0,0,0,0,11.07
+449,Tai Baribo,Beitar Jerusalem,׳§׳©׳¨,01/04/2025,37,90,0,0,1,0,9.74
+450,Oscar Gloukh,Beitar Jerusalem,Goalkeeper,3/14/2024,29,90,0,0,0,0,11.8
+451,Sagiv Jehezkel,Maccabi Haifa,Forward,3/15/2024,27,90,0,1,0,0,8.07
+452,Anan Khalaili,Beitar Jerusalem,Goalkeeper,12/31/2024,26,90,0,0,0,0,9.02
+453,Sagiv Jehezkel,Beitar Jerusalem,Defender,8/14/2024,27,90,0,0,0,0,9.49
+454,Mohammad Abu Fani,Hapoel Tel Aviv,Forward,1/20/2025,28,90,2,0,0,0,7.75
+455,Manor Solomon,Beitar Jerusalem,׳§׳©׳¨,7/14/2024,29,90,1,1,1,0,10.36
+456,Sagiv Jehezkel,Maccabi Tel Aviv,׳—׳׳•׳¥,3/15/2024,27,90,0,1,0,0,10.32
+457,Eli Dasa,maccabi tel aviv,׳§׳©׳¨,4/23/2024,24,90,0,4,0,0,9.54
+458,Omri Altman,Hapoel Tel Aviv,Forward,8/22/2024,25,90,4,0,0,0,10.03
+459,Eran Zahavi,Maccabi Haifa,Goalkeeper,04/08/2025,27,88,2,0,0,0,8.23
+460,Shon Weissman,Hapoel Tel Aviv,Goalkeeper,9/29/2024,27,90,0,1,0,0,9.31
+461,Eran Zahavi,Maccabi Tel Aviv,׳§׳©׳¨,7/15/2024,25,20,0,0,0,0,2.34
+462,Sagiv Jehezkel,Hapoel Tel Aviv,Forward,2/28/2025,28,90,0,0,1,0,9.68
+463,Omri Altman,Maccabi Haifa,FWD,4/20/2024,26,90,0,1,0,0,10.38
+464,Tai Baribo,Hapoel Beer Sheva,Defender,4/14/2025,35,90,0,0,0,0,9.63
+465,Eyad Abu Abaid,Hapoel Beer Sheva,׳—׳׳•׳¥,02/09/2024,27,90,0,0,0,0,9.97
+466,Yarden Shua,Hapoel Beer Sheva,׳§׳©׳¨,3/30/2024,32,76,0,0,1,0,10
+467,Eli Dasa,Hapoel Beer Sheva,Goalkeeper,12/09/2024,24,69,0,0,0,0,9.58
+468,Dan Einbinder,Maccabi Tel Aviv,׳§׳©׳¨,01/07/2024,25,90,0,0,0,0,11.2
+469,Dan Einbinder,Beitar Jerusalem,׳§׳©׳¨,04/10/2024,24,90,0,1,0,0,12.69
+470,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,11/30/2024,29,90,0,0,0,0,7.28
+471,Dor Peretz,Beitar Jerusalem,Midfielder,12/15/2024,25,90,0,0,1,0,11.25
+472,Shon Weissman,Maccabi Tel Aviv,׳—׳׳•׳¥,7/17/2024,27,0,0,0,0,0,0
+473,Raz Shlomo,Hapoel Tel Aviv,Goalkeeper,3/23/2024,24,90,0,0,0,0,9.99
+474,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,2/29/2024,29,84,2,2,0,0,9.26
+475,Mohammad Abu Fani,Hapoel Beer Sheva,Forward,2/18/2024,28,71,1,0,0,0,7.51
+476,Raz Shlomo,Maccabi Tel Aviv,Forward,09/08/2024,23,72,0,0,1,0,7.54
+477,Shon Weissman,Beitar Jerusalem,Goalkeeper,1/19/2025,27,76,0,0,0,0,7.93
+478,Dor Peretz,Maccabi Tel Aviv,׳§׳©׳¨,7/24/2024,26,90,1,1,0,0,13.58
+479,Dor Turgeman,Maccabi Haifa,׳§׳©׳¨,8/31/2024,22,90,0,2,0,0,11.73
+480,Manor Solomon,Hapoel Tel Aviv,FWD,5/22/2024,29,90,0,1,0,0,10.58
+481,Manor Solomon,Hapoel Tel Aviv,׳§׳©׳¨,1/17/2024,31,72,0,0,0,0,9.06
+482,Sagiv Jehezkel,Maccabi Haifa,׳—׳׳•׳¥,4/19/2024,26,90,0,0,0,0,8.67
+483,Manor Solomon,Maccabi Tel Aviv,FWD,02/12/2024,29,90,0,0,0,0,11.61
+484,Dia Saba,Maccabi Haifa,FWD,01/05/2025,28,90,0,0,0,0,10.64
+485,Miguel Vitor,Beitar Jerusalem,Defender,6/29/2024,28,37,2,0,0,0,3.5
+486,Miguel Vitor,Maccabi Haifa,׳§׳©׳¨,12/29/2024,28,90,0,0,0,0,11.41
+487,Roey Gordana,Beitar Jerusalem,FWD,3/30/2024,30,90,1,0,0,0,8.65
+488,Lior Refaelov,Hapoel Tel Aviv,Goalkeeper,1/17/2025,26,90,0,0,0,0,10
+489,Tai Baribo,Beitar Jerusalem,FWD,8/28/2024,36,90,0,0,0,0,9.61
+490,Omri Altman,Hapoel Tel Aviv,׳—׳׳•׳¥,2/18/2025,26,36,0,1,0,0,3.8
+491,Dor Turgeman,Maccabi Haifa,׳§׳©׳¨,3/14/2024,22,75,0,0,0,0,10.27
+492,Eran Zahavi,Hapoel Tel Aviv,Goalkeeper,11/15/2024,25,90,0,1,0,0,8.89
+493,Mohammad Abu Fani,Maccabi Haifa,Forward,7/22/2024,27,58,0,0,0,0,6.73
+494,Anan Khalaili,Maccabi Haifa,Goalkeeper,11/30/2024,29,83,0,0,0,0,9.28
+495,Dean David,Maccabi Tel Aviv,FWD,2/13/2024,28,90,0,0,0,0,10.33
+496,Mohammad Abu Fani,Hapoel Beer Sheva,׳§׳©׳¨,06/07/2024,27,47,0,1,1,0,6.79
+497,Dor Turgeman,Hapoel Tel Aviv,Goalkeeper,01/07/2024,23,90,0,0,0,0,8.87
+498,Lior Refaelov,Maccabi Tel Aviv,Goalkeeper,03/05/2025,27,43,0,2,0,0,4.99
+499,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,10/14/2024,27,90,0,0,0,0,11.58
+500,Raz Shlomo,Maccabi Tel Aviv,Midfielder,08/03/2024,24,90,1,0,0,0,8.82
+501,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,04/08/2024,24,73,0,1,0,0,9.52
+502,Dan Einbinder,Hapoel Tel Aviv,Forward,2/18/2024,25,90,1,0,0,0,9.23
+503,Eyad Abu Abaid,Beitar Jerusalem,Goalkeeper,3/14/2024,28,90,0,0,0,0,10.97
+504,Sagiv Jehezkel,Maccabi Haifa,Defender,10/25/2024,28,90,0,0,0,0,9.13
+505,Dia Saba,Beitar Jerusalem,Forward,01/06/2025,29,90,0,0,0,0,9.82
+506,Mohammad Abu Fani,Beitar Jerusalem,Forward,3/27/2024,26,90,0,0,0,0,8.84
+507,Omri Altman,Hapoel Tel Aviv,Defender,11/22/2024,28,88,0,0,1,0,9.96
+508,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,02/01/2025,26,90,1,0,1,0,8.85
+509,Anan Khalaili,Hapoel Beer Sheva,׳—׳׳•׳¥,10/06/2024,26,90,0,0,1,0,10.18
+510,Manor Solomon,Beitar Jerusalem,FWD,04/04/2025,29,90,0,1,0,0,11.51
+511,Sagiv Jehezkel,Maccabi Haifa,׳—׳׳•׳¥,02/11/2025,27,90,0,0,0,0,9.36
+512,Omri Altman,Maccabi Haifa,Goalkeeper,2/18/2024,27,69,0,0,1,0,7.86
+513,Gabi Kanichowsky,Hapoel Tel Aviv,Midfielder,2/23/2024,30,90,1,0,0,0,10.54
+514,Dean David,Beitar Jeru,Goalkeeper,3/30/2024,26,57,0,0,0,0,7.1
+515,Eyad Abu Abaid,Hapoel Tel Aviv,׳§׳©׳¨,6/26/2024,27,70,0,0,0,0,9.42
+516,Raz Shlomo,Beitar Jerusalem,Defender,7/24/2024,24,90,0,0,1,0,9.33
+517,Dor Peretz,Maccabi Haifa,׳§׳©׳¨,1/17/2024,26,78,0,0,0,0,10.44
+518,Eyad Abu Abaid,Beitar Jerusalem,FWD,11/09/2024,29,76,0,0,0,0,7.71
+519,Hisham Layous,Hapoel Tel Aviv,Defender,11/04/2024,30,90,0,0,0,0,12.27
+520,Yarden Shua,Hapoel Beer Sheva,Midfielder,11/23/2024,31,90,0,1,0,0,13.59
+521,Roey Gordana,Hapoel Beer Sheva,Goalkeeper,1/31/2025,28,90,0,0,0,0,9.64
+522,Hisham Layous,Maccabi Haifa,Forward,07/02/2024,28,90,1,0,0,0,10.22
+523,Ramzi Safouri,Hapoel Tel Aviv,׳§׳©׳¨,05/04/2024,24,83,0,0,0,0,10.64
+524,Manor Solomon,Beitar Jerusalem,Defender,2/22/2024,30,90,0,0,2,0,12.01
+525,Lior Refaelov,Hapoel Tel Aviv,FWD,4/20/2024,26,90,0,0,1,0,9.96
+526,Sagiv Jehezkel,Maccabi Haifa,Defender,3/23/2025,26,90,0,0,0,0,9.61
+527,Eyad Abu Abaid,Beitar Jerusalem,FWD,6/27/2024,27,51,0,0,0,0,4.81
+528,Dor Turgeman,Hapoel Tel Aviv,Goalkeeper,10/05/2024,23,46,0,0,0,0,4.19
+529,Dia Saba,Hapoel Tel Aviv,Forward,3/14/2025,28,90,3,0,0,0,9.65
+530,Sagiv Jehezkel,Maccabi Tel Aviv,FWD,12/03/2024,27,90,1,1,0,0,11
+531,Dor Turgeman,Maccabi Haifa,Goalkeeper,03/06/2025,22,90,0,0,1,0,9.52
+532,Eli Dasa,Maccabi Haifa,׳—׳׳•׳¥,3/17/2024,25,90,1,1,0,0,9.98
+533,Netta Lavi,Maccabi Haifa,Defender,04/08/2024,30,69,0,0,0,0,7.38
+534,Raz Shlomo,Hapoel Beer Sheva,Midfielder,6/17/2024,24,90,0,0,0,0,11.55
+535,Gabi Kanichowsky,Hapoel Tel Aviv,׳—׳׳•׳¥,12/14/2024,30,90,0,0,0,0,9.12
+536,Netta Lavi,Hapoel Tel Aviv,׳§׳©׳¨,6/23/2024,31,7,2,2,0,0,0.88
+537,Eli Dasa,Maccabi Tel Aviv,Midfielder,01/12/2025,23,66,1,0,0,0,8.76
+538,Eli Dasa,Hapoel Beer Sheva,Defender,7/19/2024,24,90,0,2,0,0,10.42
+539,Dia Saba,Beitar Jerusalem,FWD,3/21/2024,28,40,1,0,0,0,4.73
+540,Gabi Kanichowsky,Maccabi Haifa,׳—׳׳•׳¥,1/21/2025,30,90,0,0,0,0,11.27
+541,Dia Saba,Hapoel Tel Aviv,Forward,12/23/2024,29,90,0,0,0,0,9.53
+542,Eran Zahavi,Hapoel Beer Sheva,Midfielder,12/08/2024,25,38,0,0,0,0,5.56
+543,Dor Peretz,Beitar Jerusalem,FWD,9/13/2024,23,90,0,0,0,0,9.87
+544,Anan Khalaili,Beitar Jerusalem,Midfielder,4/20/2024,26,74,1,1,0,0,10.06
+545,Miguel Vitor,Maccabi Haifa,Midfielder,1/27/2024,30,90,0,0,0,0,10.94
+546,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,03/08/2024,31,90,0,0,1,0,9.51
+547,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,2/25/2024,26,0,0,0,0,0,0
+548,Dor Turgeman,Beitar Jerusalem,׳§׳©׳¨,6/19/2024,20,64,0,0,0,0,8.11
+549,Hisham Layous,Maccabi Haifa,׳—׳׳•׳¥,10/07/2024,27,90,0,0,0,0,10.01
+550,Hisham Layous,Hapoel Beer Sheva,Forward,02/03/2024,26,90,0,0,0,0,11.87
+551,Lior Refaelov,Maccabi Haifa,Defender,2/19/2024,25,90,0,0,0,0,11.79
+552,Raz Shlomo,Beitar Jerusalem,Midfielder,9/14/2024,24,90,0,0,0,0,10.56
+553,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,12/30/2024,27,90,0,0,0,0,10.67
+554,Eyad Abu Abaid,Maccabi Haifa,FWD,05/05/2024,29,90,0,0,0,0,9.95
+555,Eli Dasa,Hapoel Tel Aviv,׳—׳׳•׳¥,10/21/2024,23,86,0,0,0,0,7.77
+556,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,01/09/2024,28,90,1,0,2,0,9.64
+557,Dor Turgeman,Beitar Jerusalem,׳—׳׳•׳¥,12/11/2024,23,90,0,0,0,1,10.76
+558,Yarden Shua,Hapoel Beer Sheva,׳§׳©׳¨,02/05/2024,33,90,0,1,0,0,11.44
+559,Tai Baribo,Hapoel Tel Aviv,׳—׳׳•׳¥,5/18/2024,36,90,2,0,0,0,10.21
+560,Miguel Vitor,Maccabi Haifa,Forward,02/06/2025,29,90,0,1,0,0,8.1
+561,Dor Peretz,Maccabi Tel Aviv,׳§׳©׳¨,8/23/2024,26,90,0,0,0,0,10.21
+562,Tai Baribo,Hapoel Beer Sheva,׳—׳׳•׳¥,03/11/2024,36,80,0,0,0,0,8.32
+563,Ramzi Safouri,Maccabi Haifa,FWD,1/31/2025,24,90,1,0,2,0,10.43
+564,Tai Baribo,Beitar Jerusalem,Defender,4/26/2024,37,90,0,2,1,0,11.52
+565,Mohammad Abu Fani,Maccabi Tel Aviv,Forward,1/16/2024,28,78,2,1,0,0,8.83
+566,Tai Baribo,Hapoel Tel Aviv,Defender,5/18/2024,38,90,0,1,1,0,10.92
+567,Netta Lavi,Maccabi Haifa,Goalkeeper,6/18/2024,31,90,0,0,0,0,9.39
+568,Hisham Layous,Maccabi Tel Aviv,FWD,02/07/2024,29,90,0,0,1,0,9.71
+569,Yarden Shua,Beitar Jerusalem,Forward,4/14/2025,33,90,0,0,0,0,9.22
+570,Hisham Layous,Hapoel Tel Aviv,Forward,2/14/2024,28,90,0,1,0,0,10.29
+571,Lior Refaelov,Maccabi Tel Aviv,FWD,11/05/2024,26,90,0,0,0,0,8.63
+572,Raz Shlomo,Hapoel Tel Aviv,Forward,4/21/2024,23,87,0,0,0,0,9.26
+573,Mohammad Abu Fani,Hapoel Beer Sheva,Midfielder,04/04/2024,26,90,1,1,0,0,11.11
+574,Hisham Layous,Hapoel Beer Sheva,Forward,06/02/2024,29,90,2,2,0,0,10.48
+575,Hisham Layous,Maccabi Tel Aviv,׳—׳׳•׳¥,07/06/2024,27,90,0,0,0,0,10
+576,Dan Einbinder,Hapoel Tel Aviv,FWD,7/15/2024,26,90,0,0,0,0,10.85
+577,Anan Khalaili,Maccabi Haifa,Defender,12/05/2024,28,90,0,1,0,0,10.69
+578,Omri Altman,Maccabi Haifa,FWD,2/19/2024,26,40,1,1,0,0,5.34
+579,Eran Zahavi,Beitar Jerusalem,FWD,9/28/2024,26,56,0,0,0,0,7.51
+580,Eyad Abu Abaid,Maccabi Haifa,FWD,9/19/2024,27,0,0,0,0,0,0
+581,Hisham Layous,Maccabi Tel Aviv,Defender,03/08/2025,27,90,0,0,0,0,8.27
+582,Hisham Layous,Hapoel Beer Sheva,FWD,1/16/2025,29,87,0,0,0,0,10.71
+583,Dor Peretz,Hapoel Tel Aviv,Forward,4/15/2025,25,90,1,0,2,0,9.25
+584,Eyad Abu Abaid,Beitar Jerusalem,FWD,4/28/2025,27,18,0,0,0,0,1.81
+585,Dean David,Beitar Jerusalem,Forward,3/15/2025,28,90,1,0,1,0,10.27
+586,Dan Einbinder,Hapoel Tel Aviv,Goalkeeper,04/05/2025,26,33,0,0,0,0,4.22
+587,Roey Gordana,Beitar Jerusalem,Forward,11/26/2024,31,90,0,1,0,1,10.36
+588,Dean David,Beitar Jerusalem,Goalkeeper,08/06/2024,29,90,1,1,0,0,11.14
+589,Shon Weissman,Beitar Jerusalem,׳§׳©׳¨,2/18/2025,29,90,0,0,1,0,10.51
+590,Miguel Vitor,Maccabi Haifa,Defender,01/03/2025,27,90,0,1,0,0,11.11
+591,Ramzi Safouri,Hapoel Beer Sheva,׳—׳׳•׳¥,2/29/2024,24,45,0,0,0,0,4.73
+592,Yarden Shua,Beitar Jerusalem,Midfielder,01/08/2024,32,90,0,0,1,0,9.58
+593,Sagiv Jehezkel,Maccabi Haifa,Forward,02/05/2025,27,90,0,0,0,0,8.7
+594,Eli Dasa,Beitar Jerusalem,Defender,7/31/2024,25,19,0,0,0,0,1.92
+595,Ramzi Safouri,Hapoel Beer Sheva,Defender,1/26/2025,25,90,1,0,0,0,10.7
+596,Ramzi Safouri,Maccabi Tel Aviv,׳—׳׳•׳¥,05/10/2024,24,90,0,0,1,0,8.53
+597,Yarden Shua,Hapoel Beer Sheva,Forward,02/06/2024,32,90,1,0,0,0,9.48
+598,Miguel Vitor,Beitar Jerusalem,׳§׳©׳¨,3/17/2024,29,90,0,0,0,1,11.25
+599,Oscar Gloukh,Maccabi Haifa,Midfielder,03/03/2024,28,90,0,0,0,0,12.68
+600,Dor Turgeman,Maccabi Tel Aviv,FWD,1/26/2025,22,90,1,0,1,0,11.04
+601,Omri Altman,Maccabi Haifa,FWD,6/25/2024,25,90,0,1,0,0,9.93
+602,Sagiv Jehezkel,Beitar Jerusalem,Defender,08/12/2024,27,90,0,0,1,0,10.3
+603,Shon Weissman,Beitar Jerusalem,׳—׳׳•׳¥,2/24/2025,27,64,2,0,0,0,7.19
+604,Manor Solomon,Maccabi Tel Aviv,Midfielder,5/28/2024,29,90,1,2,0,0,11.83
+605,Anan Khalaili,Maccabi Haifa,Goalkeeper,9/29/2024,27,71,1,0,0,0,7.78
+606,Oscar Gloukh,Maccabi Tel Aviv,Defender,12/08/2024,28,70,0,0,0,0,8.32
+607,Hisham Layous,Maccabi Haifa,Defender,5/31/2024,28,90,0,0,1,0,9.62
+608,Roey Gordana,Maccabi Haifa,Midfielder,5/29/2024,30,90,1,0,1,0,8.5
+609,Sagiv Jehezkel,Hapoel Tel Aviv,Midfielder,01/08/2025,27,90,1,1,1,0,11.96
+610,Tai Baribo,Beitar Jerusalem,FWD,02/10/2025,37,90,0,0,0,0,8.96
+611,Hisham Layous,Hapoel Tel Aviv,Defender,06/12/2024,27,90,0,0,0,0,9.59
+612,Dor Peretz,Maccabi Haifa,׳§׳©׳¨,1/14/2025,27,90,0,3,0,0,10.62
+613,Hisham Layous,Maccabi Haifa,FWD,12/14/2024,28,90,0,0,0,0,10.6
+614,Mohammad Abu Fani,Hapoel Beer Sheva,׳—׳׳•׳¥,11/05/2024,27,90,0,0,0,0,10.28
+615,Dan Einbinder,Maccabi Haifa,׳§׳©׳¨,11/30/2024,24,90,0,0,0,0,12.08
+616,Oscar Gloukh,Maccabi Haifa,׳§׳©׳¨,07/06/2024,28,70,1,0,2,0,8.68
+617,Dor Peretz,Beitar Jerusalem,Forward,3/22/2025,26,90,1,0,0,0,10.94
+618,Raz Shlomo,Hapoel Beer Sheva,Goalkeeper,02/07/2024,23,86,1,0,0,0,9.2
+619,Ramzi Safouri,Maccabi Haifa,׳§׳©׳¨,9/18/2024,25,90,1,2,0,0,12.01
+620,Dia Saba,Hapoel Tel Aviv,FWD,10/22/2024,31,90,3,0,0,0,11.98
+621,Roey Gordana,Beitar Jerusalem,Forward,1/21/2025,28,11,1,1,0,0,0.99
+622,Anan Khalaili,Maccabi Tel Aviv,Midfielder,5/16/2024,27,90,1,1,0,0,10.92
+623,Dia Saba,Maccabi Haifa,Forward,2/13/2024,30,90,1,0,0,0,10.43
+624,Oscar Gloukh,Hapoel Beer Sheva,Goalkeeper,07/07/2024,29,38,0,0,1,0,4.72
+625,Eli Dasa,Beitar Jerusalem,Goalkeeper,06/10/2024,25,90,0,0,0,0,10.44
+626,Anan Khalaili,Beitar Jerusalem,FWD,01/07/2024,27,90,2,0,0,0,8.82
+627,Oscar Gloukh,Beitar Jerusalem,׳§׳©׳¨,04/03/2025,28,64,1,0,0,0,7.74
+628,Yarden Shua,Beitar Jerusalem,׳—׳׳•׳¥,09/03/2024,31,90,1,1,0,0,9.59
+629,Sagiv Jehezkel,Hapoel Tel Aviv,Forward,1/19/2025,27,63,0,2,0,0,7.95
+630,Mohammad Abu Fani,Hapoel Beer Sheva,Defender,8/30/2024,26,90,1,0,2,0,10.28
+631,Eyad Abu Abaid,Beitar Jerusalem,FWD,02/02/2025,27,90,0,0,0,0,10.25
+632,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,3/30/2025,26,90,0,0,1,0,9.19
+633,Dor Peretz,Hapoel Tel Aviv,Midfielder,1/13/2025,27,90,0,0,0,0,10.38
+634,Raz Shlomo,Beitar Jerusalem,Defender,2/14/2024,25,90,0,0,2,0,10.69
+635,Oscar Gloukh,Beitar Jerusalem,Midfielder,2/27/2025,29,90,1,3,1,0,9.6
+636,Ramzi Safouri,Beitar Jerusalem,FWD,4/24/2025,23,90,0,1,0,0,9.79
+637,Sagiv Jehezkel,Beitar Jerusalem,Forward,02/10/2024,27,90,1,0,0,0,8.64
+638,Eli Dasa,maccabi tel aviv,׳—׳׳•׳¥,4/15/2025,23,90,0,0,0,0,9.7
+639,Dor Turgeman,Beitar Jerusalem,FWD,06/10/2024,22,61,0,1,0,0,5.7
+640,Netta Lavi,Maccabi Haifa,׳—׳׳•׳¥,12/20/2024,30,81,0,0,0,0,7.9
+641,Dia Saba,Beitar Jerusalem,Forward,11/02/2024,28,42,5,0,0,0,4.26
+642,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,9/21/2024,28,22,0,1,0,0,2.88
+643,Dean David,Maccabi Tel Aviv,Goalkeeper,10/18/2024,28,90,0,1,0,0,10.88
+644,Hisham Layous,Hapoel Beer Sheva,Goalkeeper,10/07/2024,27,90,1,0,0,0,11.95
+645,Dia Saba,Hapoel Beer Sheva,Forward,08/09/2024,30,78,0,1,0,0,8.77
+646,Ramzi Safouri,Hapoel Tel Aviv,׳—׳׳•׳¥,11/16/2024,25,90,1,1,1,0,9.62
+647,Oscar Gloukh,Beitar Jerusalem,Goalkeeper,01/09/2025,29,76,0,0,0,0,8.95
+648,Dor Peretz,Maccabi Haifa,Midfielder,2/17/2024,25,90,0,0,0,0,10.58
+649,Lior Refaelov,Beitar Jerusalem,FWD,07/02/2024,27,90,1,0,0,0,9.32
+650,Yarden Shua,Beitar Jerusalem,Midfielder,5/31/2024,34,90,1,0,0,0,10.3
+651,Yarden Shua,Maccabi Tel Aviv,Midfielder,8/14/2024,31,90,1,0,0,0,11.75
+652,Dor Peretz,Beitar Jerusalem,FWD,06/10/2024,25,82,0,0,0,0,9.63
+653,Hisham Layous,Hapoel Beer Sheva,Goalkeeper,04/03/2024,28,90,2,0,0,0,10.52
+654,Dor Turgeman,Maccabi Tel Aviv,׳§׳©׳¨,08/04/2024,21,90,0,1,0,0,13.3
+655,Ramzi Safouri,Hapoel Beer Sheva,׳—׳׳•׳¥,1/22/2025,25,90,0,1,0,0,9.96
+656,Yarden Shua,Hapoel Beer Sheva,Goalkeeper,2/19/2024,33,90,0,0,0,0,11.02
+657,Dia Saba,Beitar Jerusalem,FWD,02/10/2024,29,90,0,0,0,0,10.78
+658,Dan Einbinder,Beitar Jerusalem,Midfielder,8/25/2024,26,90,1,3,0,0,11.79
+659,Sagiv Jehezkel,Beitar Jerusalem,Goalkeeper,02/10/2025,26,90,0,1,0,0,10.55
+660,Miguel Vitor,Maccabi Haifa,Forward,03/11/2025,30,90,0,1,0,0,8.96
+661,Lior Refaelov,Maccabi Haifa,Midfielder,8/21/2024,27,64,2,0,0,0,9.6
+662,Oscar Gloukh,Hapoel Beer Sheva,Midfielder,3/17/2024,28,90,1,0,0,0,10.26
+663,Hisham Layous,Beitar Jerusalem,Goalkeeper,5/24/2024,26,90,0,0,0,0,9.62
+664,Dan Einbinder,Maccabi Haifa,Forward,8/22/2024,24,90,0,0,0,0,11.25
+665,Miguel Vitor,Hapoel Tel Aviv,Defender,09/03/2024,29,73,0,0,1,0,7.34
+666,Miguel Vitor,Beitar Jerusalem,Midfielder,4/28/2024,30,90,0,1,0,0,9.89
+667,Anan Khalaili,Hapoel Beer Sheva,FWD,11/18/2024,28,40,0,0,0,0,4.69
+668,Dor Peretz,Maccabi Tel Aviv,Midfielder,7/24/2024,25,0,0,0,0,0,0
+669,Roey Gordana,Beitar Jerusalem,Midfielder,10/19/2024,30,90,0,0,0,0,11.04
+670,Dan Einbinder,Maccabi Haifa,Goalkeeper,8/17/2024,26,64,0,0,0,0,7.73
+671,Miguel Vitor,Maccabi Tel Aviv,׳§׳©׳¨,1/30/2024,27,68,3,1,0,0,6.55
+672,Eran Zahavi,Hapoel Tel Aviv,Goalkeeper,3/29/2024,26,90,0,1,0,0,10.45
+673,Netta Lavi,Maccabi Haifa,׳§׳©׳¨,5/15/2024,29,90,0,3,2,0,11.19
+674,Lior Refaelov,Maccabi Haifa,Goalkeeper,10/27/2024,26,77,0,0,0,0,8.07
+675,Tai Baribo,Beitar Jerusalem,Defender,06/09/2024,37,72,0,0,1,0,7.62
+676,Dan Einbinder,Hapoel Beer Sheva,Midfielder,2/20/2024,26,90,0,3,0,0,11.14
+677,Roey Gordana,Maccabi Haifa,׳—׳׳•׳¥,11/18/2024,30,90,0,1,0,0,12.01
+678,Dor Peretz,Maccabi Tel Aviv,Forward,08/06/2024,24,90,3,0,2,0,11.55
+679,Lior Refaelov,Maccabi Haifa,Goalkeeper,12/02/2024,26,64,0,0,0,0,7.36
+680,Oscar Gloukh,Hapoel Beer Sheva,Defender,4/18/2024,28,90,0,0,0,0,11.73
+681,Dia Saba,Hapoel Tel Aviv,Forward,06/11/2024,30,90,1,0,0,0,10.45
+682,Mohammad Abu Fani,Hapoel Beer Sheva,Forward,7/17/2024,28,82,0,0,0,0,10.31
+683,Dor Peretz,Hapoel Tel Aviv,Midfielder,12/05/2024,25,13,0,1,0,0,1.6
+684,Eran Zahavi,Beitar Jerusalem,FWD,04/01/2024,27,50,0,0,1,0,6.05
+685,Dor Turgeman,Maccabi Tel Aviv,׳§׳©׳¨,7/27/2024,23,90,0,0,0,0,11.1
+686,Netta Lavi,Maccabi Haifa,FWD,7/24/2024,29,87,0,0,0,0,8.79
+687,Dor Peretz,Maccabi Haifa,Forward,08/12/2024,26,79,0,0,1,0,8.73
+688,Lior Refaelov,Hapoel Beer Sheva,Goalkeeper,02/07/2024,26,0,0,0,0,0,0
+689,Manor Solomon,Maccabi Haifa,׳§׳©׳¨,02/03/2025,28,90,0,0,0,0,11.62
+690,Roey Gordana,Maccabi Haifa,Defender,2/25/2024,30,90,1,0,0,0,8.03
+691,Raz Shlomo,Hapoel Beer Sheva,Defender,3/26/2025,24,90,0,0,0,0,10.05
+692,Ramzi Safouri,Hapoel Beer Sheva,Defender,1/18/2025,25,90,0,2,1,0,9.3
+693,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,07/02/2024,32,90,0,1,0,0,10.44
+694,Tai Baribo,Hapoel Beer Sheva,׳§׳©׳¨,6/28/2024,36,90,1,1,1,1,9.65
+695,Dan Einbinder,Hapoel Tel Aviv,׳§׳©׳¨,02/08/2024,26,0,0,0,0,0,0
+696,Eyad Abu Abaid,Hapoel Beer Sheva,Goalkeeper,7/31/2024,28,90,0,2,0,0,9.82
+697,Roey Gordana,Hapoel Beer Sheva,FWD,9/18/2024,28,90,0,0,0,0,10.52
+698,Mohammad Abu Fani,Maccabi Tel Aviv,׳§׳©׳¨,05/11/2024,26,90,0,0,1,0,11.77
+699,Oscar Gloukh,Maccabi Haifa,Defender,07/01/2024,29,90,0,0,2,0,10.02
+700,Ramzi Safouri,Maccabi Haifa,׳§׳©׳¨,4/24/2025,24,90,0,1,1,0,10.51
+701,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,1/24/2024,24,90,0,0,0,0,10.64
+702,Shon Weissman,Maccabi Haifa,׳—׳׳•׳¥,07/11/2024,30,90,0,0,1,0,9.73
+703,Ramzi Safouri,Beitar Jerusalem,FWD,2/16/2025,23,90,0,0,1,0,8.6
+704,Tai Baribo,Maccabi Tel Aviv,Forward,04/06/2024,35,90,2,2,0,0,8.25
+705,Miguel Vitor,Beitar Jerusalem,Midfielder,05/03/2024,30,90,0,0,0,0,10.9
+706,Ramzi Safouri,Hapoel Tel Aviv,׳—׳׳•׳¥,9/16/2024,24,90,0,0,0,0,12.27
+707,Dan Einbinder,Beitar Jerusalem,Forward,04/07/2024,25,90,0,0,1,0,10.28
+708,Netta Lavi,Hapoel Tel Aviv,FWD,4/27/2024,30,90,0,2,0,0,10.3
+709,Ramzi Safouri,Maccabi Tel Aviv,׳—׳׳•׳¥,07/03/2024,23,72,0,0,0,0,7.63
+710,Mohammad Abu Fani,Hapoel Beer Sheva,Forward,10/04/2024,26,90,0,0,0,0,9.94
+711,Eli Dasa,maccabi tel aviv,Goalkeeper,4/17/2025,23,90,2,0,0,0,9.99
+712,Oscar Gloukh,Maccabi Haifa,׳§׳©׳¨,2/13/2025,28,90,2,1,0,0,9.57
+713,Omri Altman,Hapoel Tel Aviv,Goalkeeper,10/28/2024,27,26,0,0,0,0,2.95
+714,Dia Saba,Hapoel Tel Aviv,Forward,01/08/2024,31,90,1,0,0,0,10
+715,Roey Gordana,Hapoel Beer Sheva,FWD,8/20/2024,29,59,0,0,0,0,5.43
+716,Omri Altman,Hapoel Tel Aviv,׳—׳׳•׳¥,7/29/2024,26,90,1,0,0,0,8.6
+717,Eli Dasa,Maccabi Haifa,Goalkeeper,5/20/2024,24,90,0,0,0,0,8.91
+718,Hisham Layous,Maccabi Tel Aviv,Defender,09/08/2024,30,90,0,0,1,0,10.61
+719,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,09/06/2024,30,86,4,0,0,0,12.83
+720,Netta Lavi,Hapoel Beer Sheva,FWD,09/01/2024,31,76,0,0,0,0,7.3
+721,Eyad Abu Abaid,Maccabi Tel Aviv,Goalkeeper,9/22/2024,27,90,0,0,0,0,9.34
+722,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,10/24/2024,23,90,0,0,0,0,9.16
+723,Yarden Shua,Hapoel Beer Sheva,Midfielder,4/21/2024,32,90,1,0,0,0,11.21
+724,Eyad Abu Abaid,Hapoel Beer Sheva,Goalkeeper,11/14/2024,30,90,0,2,0,0,10.67
+725,Eyad Abu Abaid,Maccabi Tel Aviv,FWD,12/06/2024,30,90,0,0,0,0,9.57
+726,Tai Baribo,Beitar Jerusalem,Forward,01/04/2024,39,90,1,0,0,0,9.98
+727,Mohammad Abu Fani,Maccabi Tel Aviv,Midfielder,01/03/2024,28,90,1,1,0,0,11.4
+728,Oscar Gloukh,Maccabi Haifa,׳§׳©׳¨,4/21/2024,28,84,0,2,0,0,10.24
+729,Sagiv Jehezkel,Hapoel Tel Aviv,Goalkeeper,11/20/2024,27,90,0,0,0,0,11.65
+730,Yarden Shua,Beitar Jerusalem,Goalkeeper,4/21/2024,32,90,2,0,0,0,11.41
+731,Omri Altman,Maccabi Haifa,Goalkeeper,10/05/2024,24,90,0,0,0,0,8.11
+732,Eran Zahavi,Maccabi Haifa,Goalkeeper,2/27/2025,25,61,0,0,0,0,7.22
+733,Eli Dasa,Beitar Jerusalem,׳—׳׳•׳¥,2/14/2024,23,90,0,0,1,0,9.33
+734,Oscar Gloukh,Beitar Jerusalem,׳§׳©׳¨,1/21/2025,29,90,1,0,0,0,10.87
+735,Netta Lavi,Maccabi Haifa,Goalkeeper,08/05/2024,30,18,3,0,1,0,2.2
+736,Manor Solomon,Hapoel Tel Aviv,Defender,03/02/2024,30,70,0,2,0,0,7.74
+737,Eyad Abu Abaid,Hapoel Beer Sheva,FWD,03/11/2024,27,90,2,0,0,0,9.55
+738,Dan Einbinder,Beitar Jerusalem,Goalkeeper,03/10/2024,26,90,1,0,1,0,9.38
+739,Netta Lavi,Hapoel Tel Aviv,׳—׳׳•׳¥,1/27/2025,31,42,0,0,0,0,3.93
+740,Lior Refaelov,Hapoel Tel Aviv,Goalkeeper,6/22/2024,26,15,0,0,0,0,1.63
+741,Eli Dasa,Beitar Jerusalem,Midfielder,10/14/2024,26,44,0,0,0,0,5.27
+742,Mohammad Abu Fani,Maccabi Haifa,Defender,9/26/2024,27,90,0,0,0,0,11.11
+743,Dor Peretz,Maccabi Tel Aviv,Forward,8/15/2024,26,47,0,2,0,0,4.98
+744,Lior Refaelov,Maccabi Tel Aviv,Forward,5/19/2024,26,90,0,0,1,0,10.4
+745,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,4/24/2024,26,90,2,0,0,0,8.43
+746,Dor Turgeman,Maccabi Haifa,׳—׳׳•׳¥,08/11/2024,22,90,0,0,0,0,10.08
+747,Dor Peretz,Maccabi Haifa,Midfielder,1/21/2024,27,77,0,0,0,0,10.56
+748,Yarden Shua,Beitar Jerusalem,Goalkeeper,4/27/2025,32,90,0,0,0,0,9.14
+749,Shon Weissman,Beitar Jerusalem,Goalkeeper,11/09/2024,27,86,1,0,0,0,7.8
+750,Sagiv Jehezkel,Beitar Jerusalem,׳—׳׳•׳¥,3/21/2025,29,90,0,0,1,0,8.28
+751,Miguel Vitor,Beitar Jerusalem,Forward,7/13/2024,29,71,2,0,1,0,6.78
+752,Mohammad Abu Fani,Maccabi Haifa,FWD,7/21/2024,29,66,0,0,0,0,7.82
+753,Lior Refaelov,Beitar Jerusalem,׳§׳©׳¨,8/18/2024,26,90,0,1,0,0,10.91
+754,Omri Altman,Hapoel Tel Aviv,FWD,09/03/2024,27,78,0,0,0,0,8.49
+755,Ramzi Safouri,Hapoel Tel Aviv,׳§׳©׳¨,1/26/2024,25,90,1,1,0,0,10.63
+756,Tai Baribo,Maccabi Tel Aviv,Goalkeeper,3/28/2025,37,90,0,0,0,0,9.28
+757,Dor Peretz,Maccabi Tel Aviv,Defender,01/04/2025,25,90,0,0,2,0,10.54
+758,Omri Altman,Hapoel Tel Aviv,׳—׳׳•׳¥,4/25/2024,27,70,0,0,0,0,6.65
+759,Omri Altman,Hapoel Tel Aviv,Defender,06/09/2024,25,90,1,0,0,0,11.84
+760,Dor Peretz,Beitar Jerusalem,Midfielder,4/17/2025,25,71,0,0,0,0,9.02
+761,Mohammad Abu Fani,Maccabi Haifa,׳§׳©׳¨,07/05/2024,28,10,0,0,0,0,1.28
+762,Miguel Vitor,Hapoel Tel Aviv,Forward,7/31/2024,29,90,1,0,1,0,9.59
+763,Anan Khalaili,Hapoel Tel Aviv,FWD,06/03/2024,27,90,0,0,0,0,10.7
+764,Tai Baribo,Beitar Jerusalem,׳§׳©׳¨,3/30/2024,38,68,0,0,1,0,6.68
+765,Dia Saba,Maccabi Haifa,Forward,05/09/2024,30,90,2,0,0,0,10.54
+766,Eran Zahavi,Hapoel Beer Sheva,Forward,12/12/2024,26,90,3,0,0,0,9.36
+767,Eyad Abu Abaid,Hapoel Beer Sheva,FWD,03/12/2024,27,90,0,0,0,0,9.92
+768,Miguel Vitor,Maccabi Tel Aviv,Forward,9/18/2024,29,61,1,0,0,0,5.95
+769,Manor Solomon,Beitar Jerusalem,Midfielder,1/26/2025,30,90,1,3,0,0,12.46
+770,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,02/07/2025,31,88,0,0,0,0,10.37
+771,Gabi Kanichowsky,Maccabi Tel Aviv,Midfielder,12/12/2024,31,69,1,0,1,0,8.59
+772,Raz Shlomo,Hapoel Tel Aviv,Midfielder,7/14/2024,23,0,0,0,0,0,0
+773,Oscar Gloukh,Beitar Jerusalem,׳§׳©׳¨,7/30/2024,29,75,0,0,0,0,9.35
+774,Eyad Abu Abaid,Maccabi Haifa,Midfielder,9/25/2024,28,90,0,2,1,0,10.99
+775,Eli Dasa,maccabi tel aviv,Goalkeeper,3/29/2024,25,90,0,1,0,0,11.52
+776,Omri Altman,Hapoel Tel Aviv,Goalkeeper,04/02/2025,28,15,0,0,0,0,1.67
+777,Sagiv Jehezkel,Hapoel Beer Sheva,׳§׳©׳¨,12/19/2024,28,32,0,0,0,0,3.65
+778,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,5/17/2024,29,90,0,0,1,0,11.94
+779,Eyad Abu Abaid,Beitar Jerusalem,Goalkeeper,4/30/2025,27,90,0,0,0,0,9.03
+780,Oscar Gloukh,Maccabi Tel Aviv,׳§׳©׳¨,1/19/2024,29,90,0,1,0,0,13.46
+781,Mohammad Abu Fani,Hapoel Tel Aviv,Forward,10/22/2024,28,28,1,0,1,0,2.65
+782,Manor Solomon,Maccabi Haifa,Midfielder,7/26/2024,28,83,0,0,0,0,8.18
+783,Netta Lavi,Maccabi Haifa,FWD,5/16/2024,30,63,0,0,0,0,7.36
+784,Dan Einbinder,Hapoel Beer Sheva,Goalkeeper,2/20/2025,26,90,0,0,0,0,8.78
+785,Sagiv Jehezkel,Hapoel Beer Sheva,Forward,2/24/2025,27,90,0,0,0,0,9.21
+786,Dor Turgeman,Hapoel Tel Aviv,׳§׳©׳¨,4/19/2024,22,90,0,0,0,0,9.5
+787,Omri Altman,Maccabi Haifa,׳§׳©׳¨,2/16/2024,26,90,0,2,0,0,9.44
+788,Hisham Layous,Hapoel Tel Aviv,׳—׳׳•׳¥,01/07/2025,28,76,0,0,0,0,7.42
+789,Lior Refaelov,Maccabi Tel Aviv,׳—׳׳•׳¥,02/12/2024,26,90,0,0,0,0,8.73
+790,Mohammad Abu Fani,Maccabi Haifa,׳§׳©׳¨,7/20/2024,26,90,0,0,2,0,12.37
+791,Omri Altman,Hapoel Beer Sheva,Goalkeeper,4/25/2024,27,90,0,0,1,0,10.34
+792,Hisham Layous,Maccabi Haifa,Forward,9/27/2024,29,90,0,1,0,0,11.17
+793,Miguel Vitor,Hapoel Tel Aviv,Defender,5/14/2024,30,9,0,0,0,0,1.01
+794,Roey Gordana,Beitar Jerusalem,Midfielder,6/19/2024,28,90,1,0,1,0,11.58
+795,Ramzi Safouri,Maccabi Tel Aviv,FWD,2/25/2024,24,90,0,0,0,0,11.15
+796,Dean David,Beitar Jerusalem,Forward,10/04/2024,27,90,1,1,0,0,8.46
+797,Roey Gordana,Beitar Jerusalem,Forward,7/24/2024,30,90,0,0,1,1,10.7
+798,Shon Weissman,Hapoel Beer Sheva,Defender,12/28/2024,28,90,0,0,1,0,10.05
+799,Dor Turgeman,Hapoel Tel Aviv,׳—׳׳•׳¥,1/21/2025,25,86,0,0,0,0,9.06
+800,Oscar Gloukh,Maccabi Tel Aviv,Defender,2/27/2024,29,80,0,0,0,0,8.2
+801,Dor Peretz,Maccabi Haifa,Midfielder,9/21/2024,25,90,0,1,0,0,13.03
+802,Miguel Vitor,Beitar Jerusalem,Defender,12/07/2024,28,90,0,0,0,0,10.15
+803,Dor Peretz,Beitar Jerusalem,Midfielder,6/24/2024,25,90,1,1,0,0,12.61
+804,Eli Dasa,Maccabi Haifa,Goalkeeper,1/28/2024,25,86,0,0,0,0,10.1
+805,Lior Refaelov,Maccabi Tel Aviv,FWD,08/03/2024,26,90,1,0,0,0,11.55
+806,Miguel Vitor,Maccabi Haifa,Forward,03/12/2025,30,81,0,0,1,0,7.38
+807,Yarden Shua,Beitar Jerusalem,׳—׳׳•׳¥,11/19/2024,32,90,0,0,0,0,11.32
+808,Yarden Shua,Beitar Jerusalem,Forward,1/13/2024,33,90,1,0,0,0,9.97
+809,Roey Gordana,Hapoel Beer Sheva,FWD,02/09/2025,30,90,0,0,1,0,10.76
+810,Tai Baribo,Hapoel Tel Aviv,Forward,9/14/2024,36,90,0,0,0,0,9.98
+811,Yarden Shua,Beitar Jerusalem,Forward,02/05/2024,32,80,2,1,1,0,6.96
+812,Sagiv Jehezkel,Hapoel Tel Aviv,Goalkeeper,01/09/2024,28,90,0,1,0,0,8.9
+813,Roey Gordana,Maccabi Haifa,FWD,07/05/2024,30,34,0,0,0,0,3.61
+814,Netta Lavi,Hapoel Beer Sheva,FWD,7/28/2024,30,90,0,1,0,0,8.77
+815,Omri Altman,Hapoel Tel Aviv,Goalkeeper,6/19/2024,26,90,0,0,0,0,11
+816,Ramzi Safouri,Maccabi Tel Aviv,Defender,2/20/2024,23,90,1,0,1,0,10.32
+817,Tai Baribo,Beitar Jerusalem,Defender,5/15/2024,36,40,0,0,2,0,4.45
+818,Dan Einbinder,Hapoel Beer Sheva,Midfielder,2/19/2025,25,90,3,0,0,0,10.59
+819,Shon Weissman,Maccabi Haifa,Forward,3/18/2024,27,90,2,0,0,0,8.67
+820,Eli Dasa,Hapoel Tel Aviv,Goalkeeper,12/25/2024,23,90,0,0,0,0,10.37
+821,Shon Weissman,Beitar Jerusalem,Goalkeeper,2/28/2024,28,83,0,0,0,0,9.08
+822,Mohammad Abu Fani,Hapoel Beer Sheva,Forward,11/29/2024,26,87,0,1,0,0,8.79
+823,Oscar Gloukh,Beitar Jerusalem,׳§׳©׳¨,03/03/2025,29,90,0,0,0,0,11.1
+824,Raz Shlomo,Beitar Jerusalem,FWD,05/11/2024,24,52,0,1,0,0,5.83
+825,Tai Baribo,Hapoel Beer Sheva,Midfielder,02/05/2024,38,90,0,0,0,0,10.95
+826,Eli Dasa,Hapoel Beer Sheva,׳—׳׳•׳¥,2/14/2025,24,90,1,0,0,0,7.8
+827,Lior Refaelov,Maccabi Tel Aviv,Defender,11/10/2024,27,71,0,0,0,0,7.83
+828,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,07/09/2024,30,64,0,0,0,0,7.2
+829,Roey Gordana,Maccabi Haifa,Midfielder,10/05/2024,29,90,0,3,0,0,9.77
+830,Eran Zahavi,Hapoel Beer Sheva,Midfielder,11/15/2024,26,90,1,0,0,0,11.52
+831,Dan Einbinder,Hapoel Beer Sheva,׳§׳©׳¨,3/22/2025,25,90,1,0,1,0,10.39
+832,Raz Shlomo,Hapoel Beer Sheva,Forward,9/21/2024,23,84,0,0,0,0,8.73
+833,Miguel Vitor,Maccabi Haifa,Midfielder,8/29/2024,29,90,1,3,0,0,10.74
+834,Lior Refaelov,Hapoel Tel Aviv,Forward,11/12/2024,26,60,1,2,0,0,6.19
+835,Yarden Shua,Maccabi Tel Aviv,Forward,4/23/2024,33,45,0,0,0,0,3.8
+836,Dean David,Beitar Jerusalem,Defender,09/12/2024,27,86,1,0,0,0,10.75
+837,Manor Solomon,Hapoel Tel Aviv,׳—׳׳•׳¥,04/06/2024,30,90,0,1,0,0,9.27
+838,Manor Solomon,Hapoel Tel Aviv,FWD,9/26/2024,30,90,0,1,1,0,10.84
+839,Dia Saba,Maccabi Haifa,FWD,2/16/2024,30,61,0,0,0,0,7.12
+840,Mohammad Abu Fani,Hapoel Tel Aviv,Forward,10/11/2024,28,90,0,0,0,0,8.57
+841,Raz Shlomo,Hapoel Beer Sheva,Midfielder,9/14/2024,23,90,0,2,1,0,12.07
+842,Hisham Layous,Hapoel Beer Sheva,Defender,10/14/2024,29,90,0,2,2,0,9.65
+843,Mohammad Abu Fani,Maccabi Tel Aviv,Forward,11/22/2024,28,90,0,0,0,0,9.23
+844,Shon Weissman,Beitar Jerusalem,Goalkeeper,12/24/2024,26,90,0,0,0,0,9.03
+845,Netta Lavi,Maccabi Tel Aviv,Defender,4/30/2024,31,54,0,0,1,0,5.94
+846,Eli Dasa,Beitar Jerusalem,Defender,4/29/2025,24,90,0,1,0,0,9.94
+847,Miguel Vitor,Hapoel Tel Aviv,Midfielder,3/20/2024,30,90,0,0,1,1,11.77
+848,Dean David,Hapoel Beer Sheva,Forward,10/02/2024,26,90,0,1,0,0,10.05
+849,Gabi Kanichowsky,Maccabi Haifa,Defender,4/15/2025,31,90,0,0,1,0,10.04
+850,Eran Zahavi,Beitar Jerusalem,Midfielder,10/11/2024,26,90,0,0,1,0,9.86
+851,Yarden Shua,Hapoel Beer Sheva,Forward,4/25/2025,33,81,1,0,0,0,9.28
+852,Dan Einbinder,Beitar Jerusalem,Midfielder,2/14/2025,26,72,1,0,0,0,8.48
+853,Raz Shlomo,Hapoel Tel Aviv,Goalkeeper,9/15/2024,23,90,0,0,0,0,9.19
+854,Eyad Abu Abaid,Maccabi Haifa,FWD,01/11/2024,27,16,0,0,0,0,1.62
+855,Anan Khalaili,Hapoel Beer Sheva,Goalkeeper,1/19/2024,29,90,1,0,0,0,10.97
+856,Eli Dasa,Beitar Jerusalem,Goalkeeper,3/19/2025,24,90,1,0,0,0,8.51
+857,Eran Zahavi,Hapoel Tel Aviv,Goalkeeper,3/14/2025,28,90,0,0,0,0,8.73
+858,Dean David,Beitar Jerusalem,Midfielder,2/20/2024,27,90,0,0,1,0,10.21
+859,Raz Shlomo,Beitar Jerusalem,Midfielder,12/14/2024,24,90,0,4,0,0,11.03
+860,Netta Lavi,Hapoel Tel Aviv,FWD,10/07/2024,30,72,0,1,0,0,8.3
+861,Omri Altman,Hapoel Beer Sheva,׳§׳©׳¨,04/08/2024,24,90,0,0,0,0,11.95
+862,Mohammad Abu Fani,Hapoel Beer Sheva,׳§׳©׳¨,11/29/2024,27,67,0,1,1,1,8.91
+863,Tai Baribo,Beitar Jerusalem,׳§׳©׳¨,4/19/2024,38,84,0,0,0,0,10.59
+864,Dor Peretz,Beitar Jerusalem,Defender,5/26/2024,27,90,0,0,0,0,11.11
+865,Tai Baribo,Maccabi Tel Aviv,FWD,2/20/2024,37,90,0,0,0,0,7.83
+866,Roey Gordana,Maccabi Haifa,׳—׳׳•׳¥,2/18/2024,31,90,0,0,0,0,11.02
+867,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,4/29/2024,25,90,0,0,0,0,10.58
+868,Roey Gordana,Maccabi Haifa,FWD,4/24/2025,30,90,0,1,0,0,9.25
+869,Anan Khalaili,Maccabi Haifa,FWD,1/19/2025,29,90,0,0,1,0,8.88
+870,Roey Gordana,Hapoel Beer Sheva,Forward,01/09/2024,30,90,2,2,0,1,9.78
+871,Dia Saba,Hapoel Tel Aviv,FWD,12/09/2024,30,90,0,1,0,0,10.85
+872,Netta Lavi,Hapoel Tel Aviv,Midfielder,12/22/2024,31,74,0,4,0,0,9.23
+873,Dean David,Maccabi Haifa,Goalkeeper,10/05/2024,26,77,0,0,0,0,10.55
+874,Eyad Abu Abaid,Beitar Jerusalem,FWD,8/17/2024,27,90,0,0,0,0,11.49
+875,Hisham Layous,Hapoel Tel Aviv,Defender,1/17/2024,26,0,0,0,0,0,0
+876,Dan Einbinder,Hapoel Beer Sheva,׳§׳©׳¨,01/08/2025,25,90,1,0,0,0,12.4
+877,Eyad Abu Abaid,Hapoel Tel Aviv,׳—׳׳•׳¥,5/16/2024,27,87,0,0,0,0,10.1
+878,Yarden Shua,Beitar Jerusalem,Goalkeeper,12/12/2024,33,85,1,0,0,0,9.71
+879,Dor Turgeman,Hapoel Tel Aviv,׳§׳©׳¨,07/07/2024,23,36,0,0,0,0,4.94
+880,Omri Altman,Hapoel Beer Sheva,Goalkeeper,10/01/2024,27,90,1,0,0,0,10.14
+881,Omri Altman,Hapoel Beer Sheva,Defender,9/23/2024,27,90,1,0,1,0,12.56
+882,Raz Shlomo,Beitar Jerusalem,Midfielder,04/01/2024,23,90,0,0,0,0,10.52
+883,Dan Einbinder,Hapoel Tel Aviv,Midfielder,02/01/2024,24,70,0,0,2,0,9.42
+884,Sagiv Jehezkel,Maccabi Haifa,Forward,3/24/2024,27,49,0,2,0,0,5.35
+885,Mohammad Abu Fani,Hapoel Tel Aviv,Forward,12/04/2024,27,90,0,1,0,0,9.27
+886,Yarden Shua,Hapoel Beer Sheva,Forward,08/06/2024,32,77,2,1,0,0,8.17
+887,Oscar Gloukh,Beitar Jerusalem,Defender,1/31/2024,29,90,0,0,0,0,11.06
+888,Oscar Gloukh,Maccabi Haifa,׳§׳©׳¨,06/10/2024,30,90,2,0,0,0,12.72
+889,Dia Saba,Hapoel Tel Aviv,Forward,12/12/2024,29,90,0,1,0,0,10.03
+890,Roey Gordana,Hapoel Beer Sheva,׳§׳©׳¨,10/11/2024,28,90,1,0,2,0,11.33
+891,Shon Weissman,Maccabi Tel Aviv,׳§׳©׳¨,6/29/2024,27,90,0,4,0,0,12.12
+892,Omri Altman,Hapoel Beer Sheva,Defender,09/07/2024,24,90,0,0,0,0,8.69
+893,Dia Saba,Hapoel Beer Sheva,FWD,08/05/2024,28,90,3,0,0,0,10.33
+894,Dia Saba,Hapoel Beer Sheva,Goalkeeper,6/23/2024,29,73,0,0,0,0,9.01
+895,Netta Lavi,Hapoel Tel Aviv,׳§׳©׳¨,4/21/2024,29,90,0,0,1,0,11.63
+896,Omri Altman,Hapoel Tel Aviv,׳—׳׳•׳¥,2/25/2025,25,26,0,0,0,0,3.29
+897,Eran Zahavi,Hapoel Beer Sheva,Midfielder,4/28/2024,27,90,0,0,1,0,11.23
+898,Lior Refaelov,Maccabi Haifa,Forward,03/06/2025,27,83,3,0,0,0,7.71
+899,Eyad Abu Abaid,Beitar Jerusalem,׳§׳©׳¨,7/31/2024,28,71,0,2,1,0,9.8
+900,Shon Weissman,Hapoel Tel Aviv,Forward,10/02/2024,28,90,1,0,0,0,8.29
+901,Hisham Layous,Hapoel Tel Aviv,Forward,02/07/2025,29,79,1,0,0,0,6.85
+902,Anan Khalaili,Beitar Jerusalem,Midfielder,08/07/2024,28,90,0,0,0,0,11.66
+903,Hisham Layous,Maccabi Tel Aviv,Goalkeeper,03/07/2024,27,89,0,0,0,0,10.3
+904,Manor Solomon,Maccabi Haifa,FWD,4/28/2024,30,90,0,0,0,0,8.43
+905,Dia Saba,Hapoel Tel Aviv,׳—׳׳•׳¥,1/17/2024,29,90,0,0,0,0,10.79
+906,Mohammad Abu Fani,Maccabi Tel Aviv,׳§׳©׳¨,12/24/2024,28,87,1,0,0,0,11.29
+907,Omri Altman,Hapoel Beer Sheva,FWD,03/08/2025,24,51,0,2,1,0,4.42
+908,Raz Shlomo,Beitar Jerusalem,Midfielder,05/12/2024,25,90,1,0,0,0,10.77
+909,Gabi Kanichowsky,Hapoel Tel Aviv,׳—׳׳•׳¥,9/14/2024,31,61,3,0,0,0,6.42
+910,Tai Baribo,Hapoel Tel Aviv,Goalkeeper,9/13/2024,36,90,0,0,0,0,9.97
+911,Dean David,Maccabi Tel Aviv,׳§׳©׳¨,1/27/2024,30,90,0,0,0,0,11.05
+912,Roey Gordana,Hapoel Beer Sheva,׳§׳©׳¨,7/21/2024,30,90,0,1,1,0,11.12
+913,Lior Refaelov,Maccabi Haifa,FWD,2/14/2025,27,90,0,0,0,0,7.76
+914,Anan Khalaili,Hapoel Beer Sheva,FWD,5/23/2024,27,75,0,0,0,0,7.66
+915,Oscar Gloukh,Beitar Jerusalem,FWD,11/13/2024,28,90,0,0,0,0,10.35
+916,Eran Zahavi,Maccabi Tel Aviv,Midfielder,10/04/2024,25,90,0,0,0,0,12.19
+917,Gabi Kanichowsky,Hapoel Tel Aviv,׳§׳©׳¨,3/15/2024,30,90,1,3,0,0,10.28
+918,Tai Baribo,Beitar Jerusalem,׳—׳׳•׳¥,5/31/2024,36,90,0,0,0,0,8.89
+919,Dia Saba,Hapoel Tel Aviv,Forward,11/17/2024,28,90,2,0,0,0,10.03
+920,Ramzi Safouri,Hapoel Tel Aviv,׳—׳׳•׳¥,03/04/2024,25,60,0,0,1,0,7.1
+921,Oscar Gloukh,Hapoel Beer Sheva,Midfielder,02/08/2024,28,84,2,0,0,0,9.88
+922,Dor Turgeman,Maccabi Haifa,׳§׳©׳¨,6/16/2024,21,90,2,2,0,1,11.14
+923,Netta Lavi,Maccabi Haifa,Goalkeeper,4/27/2024,31,90,0,0,0,0,10.2
+924,Yarden Shua,Beitar Jerusalem,Goalkeeper,2/19/2024,33,90,0,0,0,0,11.19
+925,Dia Saba,Beitar Jerusalem,Goalkeeper,03/12/2025,29,90,0,2,1,0,9.92
+926,Dean David,Beitar Jerusalem,FWD,01/05/2025,28,78,0,0,2,0,9.47
+927,Roey Gordana,Maccabi Haifa,Forward,5/23/2024,31,57,1,1,0,0,5.98
+928,Lior Refaelov,Hapoel Tel Aviv,Forward,12/10/2024,24,90,2,0,0,0,8.87
+929,Manor Solomon,Maccabi Haifa,׳§׳©׳¨,12/01/2024,30,90,1,2,0,0,10.12
+930,Omri Altman,Hapoel Tel Aviv,Goalkeeper,12/20/2024,25,72,0,0,0,0,6.81
+931,Roey Gordana,Hapoel Beer Sheva,Midfielder,3/17/2024,29,90,0,3,1,0,11.56
+932,Roey Gordana,Beitar Jerusalem,Defender,04/07/2024,28,21,0,0,1,0,2.25
+933,Dan Einbinder,Maccabi Haifa,׳§׳©׳¨,11/26/2024,25,90,1,0,1,0,12.82
+934,Manor Solomon,Maccabi Haifa,FWD,9/28/2024,31,90,0,0,0,0,10.18
+935,Hisham Layous,Hapoel Tel Aviv,FWD,4/17/2025,28,45,0,3,0,0,5.36
+936,Anan Khalaili,Hapoel Beer Sheva,Goalkeeper,7/30/2024,30,64,0,0,1,0,7.81
+937,Dean David,Maccabi Tel Aviv,׳§׳©׳¨,12/09/2024,27,81,0,1,0,0,9.89
+938,Gabi Kanichowsky,Maccabi Haifa,Defender,05/11/2024,30,90,0,0,0,0,8.9
+939,Shon Weissman,Hapoel Tel Aviv,Goalkeeper,03/05/2025,28,25,0,0,1,0,2.63
+940,Ramzi Safouri,Maccabi Haifa,׳—׳׳•׳¥,7/26/2024,23,0,0,0,0,0,0
+941,Ramzi Safouri,Hapoel Tel Aviv,FWD,2/16/2025,24,85,0,0,0,0,8.4
+942,Tai Baribo,Hapoel Tel Aviv,FWD,07/12/2024,37,63,0,0,0,0,6.38
+943,Lior Refaelov,Maccabi Haifa,Goalkeeper,3/21/2024,26,90,0,0,0,0,10.71
+944,Anan Khalaili,Beitar Jerusalem,Goalkeeper,3/16/2024,27,90,2,0,0,0,11.87
+945,Roey Gordana,Beitar Jerusalem,׳§׳©׳¨,01/10/2025,30,90,0,3,0,0,10.69
+946,Dia Saba,Beitar Jerusalem,Forward,3/24/2024,29,90,0,3,0,0,9.63
+947,Yarden Shua,Beitar Jerusalem,׳—׳׳•׳¥,6/25/2024,31,90,2,0,0,0,9.45
+948,Shon Weissman,Beitar Jerusalem,Defender,07/12/2024,27,70,0,1,0,0,7.2
+949,Manor Solomon,Maccabi Tel Aviv,Defender,3/21/2024,29,90,0,0,0,0,8.53
+950,Anan Khalaili,Beitar Jerusalem,Midfielder,10/13/2024,28,90,3,0,1,0,12.99
+951,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,10/03/2024,24,90,0,1,0,0,10.05
+952,Omri Altman,Hapoel Beer Sheva,Midfielder,12/24/2024,27,58,2,0,0,1,7.01
+953,Sagiv Jehezkel,Maccabi Tel Aviv,׳—׳׳•׳¥,03/05/2025,27,62,0,0,0,0,6.51
+954,Raz Shlomo,Beitar Jerusalem,Midfielder,5/29/2024,23,27,0,0,0,0,3.28
+955,Ramzi Safouri,Maccabi Haifa,׳—׳׳•׳¥,2/28/2024,25,90,0,0,0,0,11.27
+956,Dor Turgeman,Beitar Jerusalem,FWD,2/29/2024,22,90,0,0,0,0,11.65
+957,Ramzi Safouri,Hapoel Tel Aviv,׳§׳©׳¨,04/08/2024,23,90,0,0,0,0,10.93
+958,Dan Einbinder,Beitar Jerusalem,Midfielder,08/01/2024,26,71,0,4,1,1,7.91
+959,Dean David,Beitar Jerusalem,Goalkeeper,08/03/2024,28,89,0,0,1,0,7.71
+960,Tai Baribo,Hapoel Tel Aviv,׳—׳׳•׳¥,6/16/2024,37,90,0,0,0,0,10.11
+961,Yarden Shua,Hapoel Beer Sheva,Forward,7/20/2024,32,88,0,4,0,0,10.26
+962,Dor Peretz,Maccabi Haifa,Midfielder,8/25/2024,26,60,0,0,0,0,7.78
+963,Shon Weissman,Hapoel Beer Sheva,Forward,3/19/2024,28,0,0,0,0,0,0
+964,Manor Solomon,Hapoel Tel Aviv,Defender,11/30/2024,29,68,1,0,0,0,8.55
+965,Hisham Layous,Maccabi Tel Aviv,Defender,2/15/2024,28,90,0,0,2,0,10.16
+966,Manor Solomon,Maccabi Tel Aviv,׳—׳׳•׳¥,8/17/2024,28,87,0,0,0,0,11.56
+967,Manor Solomon,Maccabi Tel Aviv,׳—׳׳•׳¥,2/21/2024,31,61,0,0,0,0,6.66
+968,Ramzi Safouri,Hapoel Tel Aviv,׳§׳©׳¨,3/30/2025,24,90,0,3,0,0,12.11
+969,Dor Peretz,Maccabi Tel Aviv,Midfielder,01/02/2025,25,68,0,0,0,0,9.98
+970,Dean David,Hapoel Beer Sheva,Goalkeeper,12/14/2024,28,69,0,0,0,0,8.17
+971,Lior Refaelov,Beitar Jerusalem,Goalkeeper,01/02/2024,25,82,0,0,0,0,8.28
+972,Roey Gordana,Maccabi Haifa,Midfielder,12/08/2024,30,90,0,0,0,0,12.83
+973,Hisham Layous,Hapoel Beer Sheva,Defender,3/18/2024,29,38,0,0,0,0,4.39
+974,Lior Refaelov,Hapoel Tel Aviv,Goalkeeper,3/17/2025,26,81,0,0,0,0,8.38
+975,Netta Lavi,Maccabi Tel Aviv,׳—׳׳•׳¥,3/25/2024,31,46,2,1,0,0,5.9
+976,Ramzi Safouri,Hapoel Beer Sheva,׳—׳׳•׳¥,3/24/2025,25,90,1,0,0,0,9.19
+977,Dia Saba,Beitar Jerusalem,FWD,03/01/2024,29,65,0,0,1,0,7.26
+978,Raz Shlomo,Beitar Jerusalem,Midfielder,8/14/2024,24,90,0,0,0,0,9.25
+979,Anan Khalaili,Hapoel Beer Sheva,׳—׳׳•׳¥,07/08/2024,28,70,0,0,0,0,8.41
+980,Dan Einbinder,Hapoel Beer Sheva,׳§׳©׳¨,10/07/2024,25,90,0,0,0,0,11.3
+981,Dean David,Hapoel Tel Aviv,׳§׳©׳¨,8/16/2024,28,90,0,0,0,0,10.87
+982,Tai Baribo,Beitar Jerusalem,Forward,7/29/2024,35,71,3,0,0,0,8.33
+983,Eli Dasa,Maccabi Tel Aviv,Goalkeeper,9/26/2024,24,90,1,0,0,0,10.6
+984,Gabi Kanichowsky,Maccabi Haifa,׳—׳׳•׳¥,01/04/2025,29,90,1,0,1,0,9.18
+985,Roey Gordana,Beitar Jerusalem,׳§׳©׳¨,4/13/2025,31,90,0,0,0,0,10.99
+986,Mohammad Abu Fani,Maccabi Tel Aviv,Goalkeeper,03/01/2024,28,90,0,0,0,0,9.13
+987,Yarden Shua,Beitar Jerusalem,Forward,01/03/2025,32,67,0,0,1,0,7.22
+988,Lior Refaelov,Maccabi Tel Aviv,׳—׳׳•׳¥,4/13/2025,27,90,0,2,0,0,9.37
+989,Dean David,Maccabi Tel Aviv,FWD,4/28/2024,26,90,0,0,0,0,9.9
+990,Gabi Kanichowsky,Hapoel Tel Aviv,׳§׳©׳¨,1/26/2025,32,90,1,0,1,0,11.85
+991,Dor Turgeman,Hapoel Tel Aviv,FWD,02/07/2024,24,90,0,0,0,0,8.77
+992,Dan Einbinder,Maccabi Haifa,Goalkeeper,10/22/2024,26,90,0,0,0,0,8.52
+993,Dan Einbinder,Beitar Jerusalem,׳§׳©׳¨,2/21/2025,24,90,0,0,0,0,11.18
+994,Dan Einbinder,Maccabi Haifa,׳§׳©׳¨,3/23/2024,24,0,0,0,0,0,0
+995,Tai Baribo,Maccabi Tel Aviv,׳§׳©׳¨,8/17/2024,36,90,0,0,0,0,9.79
+996,Roey Gordana,Hapoel Beer Sheva,Forward,4/20/2025,30,90,1,0,0,0,8.74
+997,Dean David,Beitar Jeru,FWD,4/15/2025,28,90,0,0,0,0,9.84
+998,Mohammad Abu Fani,Maccabi Tel Aviv,׳—׳׳•׳¥,4/23/2024,29,90,0,1,0,0,11.54
+999,Mohammad Abu Fani,Maccabi Haifa,Goalkeeper,04/11/2024,28,84,0,0,0,0,10.18
+1000,Anan Khalaili,Maccabi Haifa,׳—׳׳•׳¥,01/04/2025,27,40,0,0,0,0,4.41

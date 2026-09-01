@@ -35,3 +35,6 @@ Evaluating disciplinary records by summing yellow and red cards highlights team-
 
 ## Conclusion
 The Football Analytics project provides valuable, data-driven insights into player dominance, seasonal performance windows, age-related physical workloads, and disciplinary risks. This structured framework equips technical staff and coaches with the necessary metrics to optimize match preparation, manage squad rotations, and make informed tactical decisions
+
+### Project Resources
+* **[GitHub Notebook (Football Performance Analytics)](https://github.com/TalDruker/Football-Performance-Analytic/blob/main/footballProject.ipynb)** - View the complete Jupyter Notebook containing the data analysis, cleaning, and research insights.
